@@ -1,0 +1,1 @@
+from src.whoscored import whoscored_scraper

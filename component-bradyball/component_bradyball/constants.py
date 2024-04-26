@@ -1,0 +1,1 @@
+WHOSCORED_URL = "https://www.whoscored.com"

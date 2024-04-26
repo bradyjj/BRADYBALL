@@ -1,0 +1,1 @@
+from src.transfermarkt import transfermarkt_scrapper
