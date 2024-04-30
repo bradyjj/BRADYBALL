@@ -27,7 +27,7 @@ def scrape_urls(urls):
     for url in urls:
         soup = scrape_website(driver, url)
         match_data = get_match_data(soup)
-
+    
         upload_to_supabase(match_data)
 
 def is_match_events_valid(match_events):
