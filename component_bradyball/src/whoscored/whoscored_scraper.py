@@ -9,9 +9,7 @@ from supabase import create_client
 from models.match_event import MatchEvent
 from models.match import Match
 from models.player import Player
-
-project_url = 'https://xuzechgtuwfphulfsqhc.supabase.co'
-api_key = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh1emVjaGd0dXdmcGh1bGZzcWhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDE4MzQ2NTgsImV4cCI6MjAxNzQxMDY1OH0._KklYwKeQrkxjcqWKcmGf0CNjVZSVequFULr9skcyY8'
+from component_bradyball.src.common.config import SUPABASE_PROJECT_URL, SUPABASE_API_KEY
 
 def main():
     whoscored_urls = get_whoscored_urls()
@@ -107,7 +105,7 @@ def clean_df(df):
     return df
 
 def upload_to_supabase(match_data):
-    supabase = create_client(project_url, api_key)
+    supabase = create_client(SUPABASE_PROJECT_URL, SUPABASE_API_KEY)
 
     # Get match event data
     match_events = match_data['events']
