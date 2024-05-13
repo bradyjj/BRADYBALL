@@ -13,6 +13,24 @@ WHOSCORED_URL_TO_CONST = {
     'Italy-Serie-A': ITA_SERIE_A
 }
 
-# URLs
+# WHOSCORED URLs
 WHOSCORED_URL = "https://www.whoscored.com"
-WHOSCORED_MATCH_URL_TEMPLATE = "https://www.whoscored.com/Matches/{match_id}/Live/{league}-{season}-{teams}"
+WHOSCORED_MATCH_URL_TEMPLATE = "https://www.whoscored.com/Matches/{match_id}/{page}/{league}-{season}-{teams}"
+
+# TRANSFERMARKT URLs
+TRANSFERMARKT_PLAYER_URL = "https://www.transfermarkt.us/{player_name}/profil/spieler/{player_id}"
+TRANSFERMARKT_TEAM_STAFF_URL = "https://www.transfermarkt.us/ceapi/staff/team/{team_id}/?saison_id={season_year}&wettbewerb_id={transfermarkt_league_id}"
+TRANSFERMARKT_TRANSFER_HISTORY_URL = "https://www.transfermarkt.us/ceapi/transferHistory/list/{player_id}"
+TRANSFERMARKT_MARKET_VALUE_URL = "https://www.transfermarkt.us/ceapi/marketValueDevelopment/graph/{player_id}"
+TRANSFERMARKT_COUNTRY_URL = "https://www.transfermarkt.us/wettbewerbe/national/wettbewerbe/{country_id}/saison_id/{year}"
+TRANSFERMARKT_COUNTRY_IDS = {
+    "England": "189",
+    "France": "50",
+    "Spain": "157",
+    "Germany": "40",
+    "Italy": "75"
+}
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}

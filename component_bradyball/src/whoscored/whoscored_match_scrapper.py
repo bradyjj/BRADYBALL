@@ -6,10 +6,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from supabase import create_client
 
-from models.match_event import MatchEvent
-from models.match import Match
-from models.player import Player
-from component_bradyball.src.common.config import SUPABASE_PROJECT_URL, SUPABASE_API_KEY
+from src.common.config import SUPABASE_PROJECT_URL, SUPABASE_API_KEY
 
 def main():
     whoscored_urls = get_whoscored_urls()
