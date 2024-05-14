@@ -1,6 +1,5 @@
 import re
 import requests
-import json
 import traceback
 
 import pandas as pd
