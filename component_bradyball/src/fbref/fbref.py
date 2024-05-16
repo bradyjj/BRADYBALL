@@ -1,6 +1,8 @@
 import pandas as pd
 import soccerdata as sd
+import logging
 
+from tqdm import tqdm
 from pydantic import ValidationError
 from supabase import create_client
 
@@ -10,7 +12,7 @@ from src.common.config import SUPABASE_PROJECT_URL, SUPABASE_API_KEY
 
 def scrape_fbref_data():     
     # Get minimum shared start and end year for all leagues available in fbref
-    fbref = sd.FBref(leagues=BIG_5_EUROPEAN_LEAGUES_COMBINED, proxy="tor")
+    fbref = sd.FBref(leagues=BIG_5_EUROPEAN_LEAGUES_COMBINED, proxy=None)
     df = fbref.read_leagues()
     start_season = "9900"
     end_season = "2324"
@@ -21,28 +23,34 @@ def scrape_fbref_data():
     scrape_team_season_stats(seasons)
 
 def scrape_team_season_stats(seasons):
-    for season in seasons:
-        fbref = sd.FBref(leagues=SOCCERDATA_LEAGUES, seasons=season, proxy="tor", no_cache=True)
-        for stat_type in FBREF_STAT_CATEGORIES:  
-            df = fbref.read_team_season_stats(stat_type=stat_type, opponent_stats=False)
-            df = df.reset_index()
-            df = df.drop_duplicates()
-            
-            model = STAT_CATEGORY_TEAM_MODELS.get(stat_type)
-            table_name = STAT_CATEGORY_TEAM_TABLE_NAMES.get(stat_type)
-            
-            if model and table_name:
-                # Map DataFrame to Pydantic model and validate
-                instances = []
-                for _, row in df.iterrows():
-                    try:
-                        instance = model.from_df(row)
-                        instances.append(instance)
-                    except ValidationError as e:
-                        print(f"Validation error for {stat_type}:", e)
+    for season in tqdm(seasons, desc="Scraping seasons"):
+        logging.info(f"Processing season: {season}")
+        fbref = sd.FBref(leagues=SOCCERDATA_LEAGUES, seasons=season, no_cache=False)
+        
+        for stat_type in FBREF_STAT_CATEGORIES:
+            logging.info(f"Reading data for stat type: {stat_type}")
+            try:
+                df = fbref.read_team_season_stats(stat_type=stat_type, opponent_stats=False)
+                df = df.reset_index()
+                df = df.drop_duplicates()
                 
-                # Upload validated instances to Supabase table
-                upload_to_supabase_table(table_name, instances)
+                model = STAT_CATEGORY_TEAM_MODELS.get(stat_type)
+                table_name = STAT_CATEGORY_TEAM_TABLE_NAMES.get(stat_type)
+                
+                if model and table_name:
+                    instances = []
+                    for _, row in df.iterrows():
+                        try:
+                            instance = model.from_df(row)
+                            instances.append(instance)
+                        except ValidationError as e:
+                            logging.error(f"Validation error for {stat_type}: {e}")
+                    
+                    # Upload validated instances to Supabase table
+                    upload_to_supabase_table(table_name, instances)
+                    logging.info(f"Uploaded data for {stat_type} to {table_name} successfully.")
+            except Exception as e:
+                logging.error(f"Error processing {stat_type} for season {season}: {e}")
 
 def upload_to_supabase_table(table_name, instances):
     supabase = create_client(SUPABASE_PROJECT_URL, SUPABASE_API_KEY)
