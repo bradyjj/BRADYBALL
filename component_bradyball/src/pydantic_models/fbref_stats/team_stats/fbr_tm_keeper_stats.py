@@ -1,35 +1,29 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
 
 class FbrTmKeeperStats(BaseModel):
-    team_id: int
-    players_used: int
-    playing_time_mp: int
-    playing_time_starts: int
-    playing_time_min: int
-    playing_time_90s: float
-    performance_ga: int
-    performance_ga90: float
-    performance_sota: int
-    performance_saves: int
-    performance_save_pct: float
-    performance_w: int
-    performance_d: int
-    performance_l: int
-    performance_cs: int
-    performance_cs_pct: float
-    penalty_kicks_pkatt: int
-    penalty_kicks_pka: int
-    penalty_kicks_pksv: int
-    penalty_kicks_pkm: int
-    penalty_kicks_save_pct: float
+    team_id: str
+    team: str
+    season: str
+    league: Optional[str] = None
+    players_used: Optional[int] = None
+    playing_time_mp: Optional[int] = None
+    playing_time_starts: Optional[int] = None
+    playing_time_min: Optional[int] = None
+    playing_time_90s: Optional[float] = None
+    performance_ga: Optional[int] = None
+    performance_ga90: Optional[float] = None
+    performance_sota: Optional[int] = None
+    performance_saves: Optional[int] = None
+    performance_save_pct: Optional[float] = None
+    performance_w: Optional[int] = None
+    performance_d: Optional[int] = None
+    performance_l: Optional[int] = None
+    performance_cs: Optional[int] = None
+    performance_cs_pct: Optional[float] = None
+    penalty_kicks_pkatt: Optional[int] = None
+    penalty_kicks_pka: Optional[int] = None
+    penalty_kicks_pksv: Optional[int] = None
+    penalty_kicks_pkm: Optional[int] = None
+    penalty_kicks_save_pct: Optional[float] = None
     url: str
-    
-    @validator('team_id', pre=True)
-    def extract_team_id(cls, v):
-        if v:
-            # Extract team_id from the URL
-            parts = v.split('/')
-            for part in parts:
-                if len(part) == 8:  # Assuming team_id is always 8 characters long
-                    return int(part, 16)  # Convert hexadecimal string to integer
-        raise ValueError('Invalid URL format')

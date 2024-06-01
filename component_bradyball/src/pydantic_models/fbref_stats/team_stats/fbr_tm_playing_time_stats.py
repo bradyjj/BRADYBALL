@@ -1,37 +1,31 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
 
 class FbrTmPlayingTimeStats(BaseModel):
-    team_id: int
-    players_used: int
-    average_age: float
-    playing_time_mp: int
-    playing_time_min: int
-    playing_time_mn_per_mp: float
-    playing_time_min_pct: float
-    playing_time_90s: float
-    starts_starts: int
-    starts_mn_per_start: float
-    starts_compl: int
-    subs_subs: int
-    subs_mn_per_sub: float
-    subs_unsub: int
-    team_success_ppm: float
-    team_success_ong: int
-    team_success_onga: int
-    team_success_plus_minus: int
-    team_success_plus_minus_per_90: float
-    team_success_xg_ongxg: float
-    team_success_xg_ongxga: float
-    team_success_xg_xg_plus_minus: float
-    team_success_xg_xg_plus_minus_per_90: float
+    team_id: str
+    team: str
+    season: str
+    league: Optional[str] = None
+    players_used: Optional[int] = None
+    average_age: Optional[float] = None
+    playing_time_mp: Optional[int] = None
+    playing_time_min: Optional[int] = None
+    playing_time_mn_per_mp: Optional[float] = None
+    playing_time_min_pct: Optional[float] = None
+    playing_time_90s: Optional[float] = None
+    starts_starts: Optional[int] = None
+    starts_mn_per_start: Optional[float] = None
+    starts_compl: Optional[int] = None
+    subs_subs: Optional[int] = None
+    subs_mn_per_sub: Optional[float] = None
+    subs_unsub: Optional[int] = None
+    team_success_ppm: Optional[float] = None
+    team_success_ong: Optional[int] = None
+    team_success_onga: Optional[int] = None
+    team_success_plus_minus: Optional[int] = None
+    team_success_plus_minus_per_90: Optional[float] = None
+    team_success_xg_ongxg: Optional[float] = None
+    team_success_xg_ongxga: Optional[float] = None
+    team_success_xg_xg_plus_minus: Optional[float] = None
+    team_success_xg_xg_plus_minus_per_90: Optional[float] = None
     url: str
-    
-    @validator('team_id', pre=True)
-    def extract_team_id(cls, v):
-        if v:
-            # Extract team_id from the URL
-            parts = v.split('/')
-            for part in parts:
-                if len(part) == 8:  # Assuming team_id is always 8 characters long
-                    return int(part, 16)  # Convert hexadecimal string to integer
-        raise ValueError('Invalid URL format')

@@ -1,7 +1,8 @@
 from datetime import datetime
 from src.whoscored.whoscored_schedule_upload import load_whoscored_schedules
 from src.transfermarkt.transfermarkt import scrape_transfermarkt_player_data
-from src.fbref.fbref import scrape_fbref_data
+from src.fbref.fbref_team_scrapper import scrape_fbref_team_data
+from src.fbref.fbref_player_scrapper import scrape_fbref_player_data
 
 def main():
     while True:
@@ -9,7 +10,8 @@ def main():
         print("1. Load WhoScored Schedules")
         print("2. Scrape Transfermarkt Player Data")
         print("3. Scrape Fbref Team Season Stats")
-        print("4. Exit")
+        print("4. Scrape Fbref Player Season Stats")
+        print("5. Exit")
         choice = input("Enter your choice: ")
         
         if choice == '1':
@@ -21,8 +23,11 @@ def main():
             scrape_transfermarkt_player_data(current_season)
         elif choice == '3':
             print(f"Scraping Fbref Team Season Stats for the season...")
-            scrape_fbref_data()
+            scrape_fbref_team_data()
         elif choice == '4':
+            print(f"Scraping Fbref Player Season Stats for the season...")
+            scrape_fbref_player_data()
+        elif choice == '5':
             print("Exiting the program.")
             break
         else:
