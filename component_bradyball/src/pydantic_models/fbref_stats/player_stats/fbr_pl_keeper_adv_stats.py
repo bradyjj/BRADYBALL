@@ -1,32 +1,39 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
+
 
 class FbrPlKeeperAdvStats(BaseModel):
-    team_id: int
-    players_used: int
-    minutes_90s: float
-    goals_ga: int
-    goals_pka: int
-    goals_fk: int
-    goals_ck: int
-    goals_og: int
-    expected_psxg: float
-    expected_psxg_sot: float
-    expected_psxg_plus_minus: float
-    expected_per_90: float
-    launched_cmp: int
-    launched_att: int
-    launched_cmp_pct: float
-    passes_att_gk: int
-    passes_thr: int
-    passes_launch_pct: float
-    passes_avg_len: float
-    goal_kicks_att: int
-    goal_kicks_launch_pct: float
-    goal_kicks_avg_len: float
-    crosses_opp: int
-    crosses_stp: int
-    crosses_stp_pct: float
-    sweeper_opa: int
-    sweeper_opa_per_90: float
-    sweeper_avg_dist: float
-    url: str
+    league: str
+    season: str
+    team: str
+    player: str
+    nation: Optional[str] = None
+    position: Optional[str] = None
+    age: Optional[int] = None
+    born: Optional[int] = None
+    minutes_90s: Optional[float] = None
+    goals_ga: Optional[int] = None
+    goals_pka: Optional[int] = None
+    goals_fk: Optional[int] = None
+    goals_ck: Optional[int] = None
+    goals_og: Optional[int] = None
+    expected_psxg: Optional[float] = None
+    expected_psxg_sot: Optional[float] = None
+    expected_psxg_plus_minus: Optional[float] = None
+    expected_per_90: Optional[float] = None
+    launched_cmp: Optional[int] = None
+    launched_att: Optional[int] = None
+    launched_cmp_pct: Optional[float] = None
+    passes_att_gk: Optional[int] = None
+    passes_thr: Optional[int] = None
+    passes_launch_pct: Optional[float] = None
+    passes_avg_len: Optional[float] = None
+    goal_kicks_att: Optional[int] = None
+    goal_kicks_launch_pct: Optional[float] = None
+    goal_kicks_avg_len: Optional[float] = None
+    crosses_opp: Optional[int] = None
+    crosses_stp: Optional[int] = None
+    crosses_stp_pct: Optional[float] = None
+    sweeper_opa: Optional[int] = None
+    sweeper_opa_per_90: Optional[float] = None
+    sweeper_avg_dist: Optional[float] = None

@@ -1,33 +1,27 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
 
 class FbrTmMiscStats(BaseModel):
-    team_id: int
-    players_used: int
-    minutes_90s: float
-    performance_crdy: int
-    performance_crdr: int
-    performance_2crdy: int
-    performance_fls: int
-    performance_fld: int
-    performance_off: int
-    performance_crs: int
-    performance_int: int
-    performance_tklw: int
-    performance_pkwon: int
-    performance_pkcon: int
-    performance_og: int
-    performance_recov: int
-    aerial_duels_won: int
-    aerial_duels_lost: int
-    aerial_duels_won_pct: float
+    team_id: str
+    team: str
+    season: str
+    league: Optional[str] = None
+    players_used: Optional[int] = None
+    minutes_90s: Optional[float] = None
+    performance_crdy: Optional[int] = None
+    performance_crdr: Optional[int] = None
+    performance_2crdy: Optional[int] = None
+    performance_fls: Optional[int] = None
+    performance_fld: Optional[int] = None
+    performance_off: Optional[int] = None
+    performance_crs: Optional[int] = None
+    performance_int: Optional[int] = None
+    performance_tklw: Optional[int] = None
+    performance_pkwon: Optional[int] = None
+    performance_pkcon: Optional[int] = None
+    performance_og: Optional[int] = None
+    performance_recov: Optional[int] = None
+    aerial_duels_won: Optional[int] = None
+    aerial_duels_lost: Optional[int] = None
+    aerial_duels_won_pct: Optional[float] = None
     url: str
-    
-    @validator('team_id', pre=True)
-    def extract_team_id(cls, v):
-        if v:
-            # Extract team_id from the URL
-            parts = v.split('/')
-            for part in parts:
-                if len(part) == 8:  # Assuming team_id is always 8 characters long
-                    return int(part, 16)  # Convert hexadecimal string to integer
-        raise ValueError('Invalid URL format')

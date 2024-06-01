@@ -1,33 +1,37 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
+
 
 class FbrPlPassingStats(BaseModel):
-    team_id: int
     league: str
     season: str
     team: str
-    players_used: int
-    minutes_90s: float
-    total_cmp: int
-    total_att: int
-    total_cmp_pct: float
-    total_tot_dist: int
-    total_prg_dist: int
-    short_cmp: int
-    short_att: int
-    short_cmp_pct: float
-    medium_cmp: int
-    medium_att: int
-    medium_cmp_pct: float
-    long_cmp: int
-    long_att: int
-    long_cmp_pct: float
-    ast: int
-    xag: float
-    expected_xa: float
-    expected_a_xag: float
-    kp: int
-    passes_into_final_third: int
-    ppa: int
-    crspa: int
-    prog_passes: int
-    url: str
+    player: str
+    nation: Optional[str] = None
+    position: Optional[str] = None
+    age: Optional[int] = None
+    born: Optional[int] = None
+    minutes_90s: Optional[float] = None
+    total_cmp: Optional[int] = None
+    total_att: Optional[int] = None
+    total_cmp_pct: Optional[float] = None
+    total_tot_dist: Optional[int] = None
+    total_prg_dist: Optional[int] = None
+    short_cmp: Optional[int] = None
+    short_att: Optional[int] = None
+    short_cmp_pct: Optional[float] = None
+    medium_cmp: Optional[int] = None
+    medium_att: Optional[int] = None
+    medium_cmp_pct: Optional[float] = None
+    long_cmp: Optional[int] = None
+    long_att: Optional[int] = None
+    long_cmp_pct: Optional[float] = None
+    ast: Optional[int] = None
+    xag: Optional[float] = None
+    expected_xa: Optional[float] = None
+    expected_a_xag: Optional[float] = None
+    kp: Optional[int] = None
+    passes_into_final_third: Optional[int] = None
+    ppa: Optional[int] = None
+    crspa: Optional[int] = None
+    prog_passes: Optional[int] = None

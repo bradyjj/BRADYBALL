@@ -1,23 +1,30 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
+
 
 class FbrPlMiscStats(BaseModel):
-    team_id: int
-    players_used: int
-    minutes_90s: float
-    performance_crdy: int
-    performance_crdr: int
-    performance_2crdy: int
-    performance_fls: int
-    performance_fld: int
-    performance_off: int
-    performance_crs: int
-    performance_int: int
-    performance_tklw: int
-    performance_pkwon: int
-    performance_pkcon: int
-    performance_og: int
-    performance_recov: int
-    aerial_duels_won: int
-    aerial_duels_lost: int
-    aerial_duels_won_pct: float
-    url: str
+    league: str
+    season: str
+    team: str
+    player: str
+    nation: Optional[str] = None
+    position: Optional[str] = None
+    age: Optional[int] = None
+    born: Optional[int] = None
+    minutes_90s: Optional[float] = None
+    performance_crdy: Optional[int] = None
+    performance_crdr: Optional[int] = None
+    performance_2crdy: Optional[int] = None
+    performance_fls: Optional[int] = None
+    performance_fld: Optional[int] = None
+    performance_off: Optional[int] = None
+    performance_crs: Optional[int] = None
+    performance_int: Optional[int] = None
+    performance_tklw: Optional[int] = None
+    performance_pkwon: Optional[int] = None
+    performance_pkcon: Optional[int] = None
+    performance_og: Optional[int] = None
+    performance_recov: Optional[int] = None
+    aerial_duels_won: Optional[int] = None
+    aerial_duels_lost: Optional[int] = None
+    aerial_duels_won_pct: Optional[float] = None

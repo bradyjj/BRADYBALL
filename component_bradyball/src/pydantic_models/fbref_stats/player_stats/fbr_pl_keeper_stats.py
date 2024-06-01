@@ -1,25 +1,31 @@
-from pydantic import BaseModel, validator
+from typing import Optional
+from pydantic import BaseModel
 
 class FbrPlKeeperStats(BaseModel):
-    team_id: int
-    players_used: int
-    playing_time_mp: int
-    playing_time_starts: int
-    playing_time_min: int
-    playing_time_90s: float
-    performance_ga: int
-    performance_ga90: float
-    performance_sota: int
-    performance_saves: int
-    performance_save_pct: float
-    performance_w: int
-    performance_d: int
-    performance_l: int
-    performance_cs: int
-    performance_cs_pct: float
-    penalty_kicks_pkatt: int
-    penalty_kicks_pka: int
-    penalty_kicks_pksv: int
-    penalty_kicks_pkm: int
-    penalty_kicks_save_pct: float
-    url: str
+    league: str
+    season: str
+    team: str
+    player: str
+    nation: Optional[str] = None
+    position: Optional[str] = None
+    age: Optional[int] = None
+    born: Optional[int] = None
+    playing_time_mp: Optional[int] = None
+    playing_time_starts: Optional[int] = None
+    playing_time_min: Optional[int] = None
+    playing_time_90s: Optional[float] = None
+    performance_ga: Optional[int] = None
+    performance_ga90: Optional[float] = None
+    performance_sota: Optional[int] = None
+    performance_saves: Optional[int] = None
+    performance_save_pct: Optional[float] = None
+    performance_w: Optional[int] = None
+    performance_d: Optional[int] = None
+    performance_l: Optional[int] = None
+    performance_cs: Optional[int] = None
+    performance_cs_pct: Optional[float] = None
+    penalty_kicks_pkatt: Optional[int] = None
+    penalty_kicks_pka: Optional[int] = None
+    penalty_kicks_pksv: Optional[int] = None
+    penalty_kicks_pkm: Optional[int] = None
+    penalty_kicks_save_pct: Optional[float] = None
