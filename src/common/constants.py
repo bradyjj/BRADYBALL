@@ -1,4 +1,4 @@
-from src.pydantic_models import *
+from src.common.pydantic_models import *
 
 # Soccerdata Leagues
 BIG_5_EUROPEAN_LEAGUES_COMBINED = 'Big 5 European Leagues Combined'
@@ -9,12 +9,12 @@ GER_BUNDESLIGA = 'GER-Bundesliga'
 ITA_SERIE_A = 'ITA-Serie A'
 
 SOCCERDATA_LEAGUES = [
-    BIG_5_EUROPEAN_LEAGUES_COMBINED,
-    ENG_PREMIER_LEAGUE,
-    ESP_LA_LIGA,
+    # BIG_5_EUROPEAN_LEAGUES_COMBINED,
+    # ENG_PREMIER_LEAGUE,
+    # ESP_LA_LIGA,
     FRA_LIGUE_1,
-    GER_BUNDESLIGA,
-    ITA_SERIE_A
+    # GER_BUNDESLIGA,
+    # ITA_SERIE_A
 ]
 
 # FBREF

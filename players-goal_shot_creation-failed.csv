@@ -1,0 +1,542 @@
+"('league', '')","('season', '')","('team', '')","('player', '')","('nation', '')","('pos', '')","('age', '')","('born', '')",minutes_90s,sca_total,sca_per_90,sca_types_pass_live,sca_types_pass_dead,sca_types_to,sca_types_sh,sca_types_fld,sca_types_def,gca_total,gca_per_90,gca_types_pass_live,gca_types_pass_dead,gca_types_to,gca_types_sh,gca_types_fld,gca_types_def
+FRA-Ligue 1,2324,Brest,Achraf Dari,MAR,"DF,FW",25-021,1999,1.3,1,0.74,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Adrien Lebeau,FRA,"MF,FW",24-324,1999,0.6,4,6.67,3,1,0,0,0,0,1,1.67,1,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Axel Camblan,FRA,FW,20-271,2003,1.0,2,2.02,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Bilal Brahimi,ALG,"FW,MF",24-074,2000,2.5,13,5.29,11,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Bradley Locko,FRA,DF,22-021,2002,32.9,63,1.92,49,2,6,2,3,1,7,0.21,6,0,1,0,0,0
+FRA-Ligue 1,2324,Brest,Brendan Chardonnet,FRA,DF,29-157,1994,33.0,28,0.85,24,1,0,2,1,0,4,0.12,2,0,0,1,1,0
+FRA-Ligue 1,2324,Brest,Grégoire Coudert,FRA,GK,25-054,1999,2.0,1,0.5,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Hianga Mananga Mbock,FRA,"MF,FW",24-151,1999,0.1,1,10.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Hugo Magnetti,FRA,MF,25-363,1998,26.0,60,2.31,47,0,5,6,1,1,5,0.19,2,0,1,2,0,0
+FRA-Ligue 1,2324,Brest,Jonas Martin,FRA,MF,34-048,1990,13.4,25,1.86,23,0,1,0,0,1,1,0.07,1,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Jordan Amavi,FRA,DF,30-079,1994,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Julien Le Cardinal,FRA,DF,26-298,1997,5.3,9,1.71,4,1,1,1,1,1,2,0.38,1,0,0,0,1,0
+FRA-Ligue 1,2324,Brest,Jérémy Le Douaron,FRA,FW,26-036,1998,18.0,32,1.78,21,0,4,3,4,0,4,0.22,2,0,0,1,1,0
+FRA-Ligue 1,2324,Brest,Kamory Doumbia,MLI,MF,21-099,2003,9.8,27,2.76,22,0,2,3,0,0,7,0.72,7,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Karamoko Dembele,SCO,"MF,FW",21-095,2003,0.2,1,5.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Kenny Lala,MAD,DF,32-237,1991,33.0,98,2.97,74,18,2,3,1,0,9,0.27,7,2,0,0,0,0
+FRA-Ligue 1,2324,Brest,Lilian Brassier,FRA,DF,24-207,1999,29.7,18,0.61,14,0,1,0,1,2,2,0.07,1,0,0,0,1,0
+FRA-Ligue 1,2324,Brest,Luc Zogbé,CIV,DF,19-064,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Mahdi Camara,FRA,MF,25-332,1998,22.4,73,3.25,50,0,2,7,10,4,7,0.31,4,0,0,1,2,0
+FRA-Ligue 1,2324,Brest,Marco Bizot,NED,GK,33-078,1991,32.0,5,0.16,4,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Brest,Martin Satriano,URU,FW,23-097,2001,20.7,57,2.75,39,1,5,7,3,2,6,0.29,5,0,0,1,0,0
+FRA-Ligue 1,2324,Brest,Mathias Pereira Lage,POR,"FW,MF",27-179,1996,13.2,37,2.81,19,9,2,1,4,2,5,0.38,2,2,0,0,0,1
+FRA-Ligue 1,2324,Brest,Pierre Lees-Melou,FRA,MF,31-002,1993,28.0,84,3.0,60,0,5,9,3,7,5,0.18,3,0,1,0,0,1
+FRA-Ligue 1,2324,Brest,Romain Del Castillo,FRA,FW,28-059,1996,27.7,166,5.98,101,38,9,4,12,2,14,0.5,9,4,0,1,0,0
+FRA-Ligue 1,2324,Brest,Steve Mounié,BEN,FW,29-241,1994,19.7,32,1.63,20,0,0,9,3,0,6,0.31,2,0,0,3,1,0
+FRA-Ligue 1,2324,Clermont Foot,Abdellah Baallal,MAR,MF,19-202,2004,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Alan Virginius,FRA,FW,21-145,2003,10.4,21,2.02,15,2,1,2,1,0,3,0.29,2,0,0,0,1,0
+FRA-Ligue 1,2324,Clermont Foot,Alidu Seidu,GHA,DF,23-358,2000,12.6,13,1.03,7,2,1,0,3,0,1,0.08,1,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Andy Pelmard,FRA,DF,24-076,2000,33.2,21,0.63,18,1,2,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Aïman Maurer,MAR,"MF,FW",19-245,2004,0.6,1,1.61,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Bilal Boutobba,FRA,"FW,MF",25-272,1998,10.3,34,3.3,21,2,4,3,3,1,1,0.1,1,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Cheick Konaté,MLI,DF,20-055,2004,11.9,29,2.44,25,0,3,1,0,0,2,0.17,2,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Chrislain Matsima,FRA,DF,22-012,2002,13.1,6,0.46,5,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Elba Rashani,KVX,"MF,FW",31-018,1993,13.1,29,2.22,22,0,1,2,3,1,2,0.15,1,0,0,0,1,0
+FRA-Ligue 1,2324,Clermont Foot,Florent Ogier,FRA,DF,35-067,1989,10.5,9,0.86,5,0,0,4,0,0,2,0.19,1,0,0,1,0,0
+FRA-Ligue 1,2324,Clermont Foot,Grejohn Kyei,FRA,FW,28-289,1995,11.4,21,1.84,18,0,1,1,1,0,2,0.18,2,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Habib Keita,MLI,MF,22-112,2002,14.2,28,1.97,24,0,1,2,1,0,1,0.07,1,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Ilhan Fakili,FRA,"MF,FW",18-128,2006,1.0,2,1.91,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Jim Allevinah,GAB,"MF,DF",29-090,1995,20.7,58,2.8,37,2,6,6,6,1,3,0.15,3,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Johan Gastien,FRA,MF,36-123,1988,25.1,63,2.51,47,11,0,1,2,2,4,0.16,4,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Joshua M'Bahia,CIV,DF,19-038,2005,0.2,,,,,,,,,,,,,,,,
+FRA-Ligue 1,2324,Clermont Foot,Jérémie Bela,ANG,"MF,FW",31-049,1993,2.3,7,3.07,6,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Jérémy Jacquet,FRA,DF,18-319,2005,2.8,5,1.79,5,0,0,0,0,0,1,0.36,1,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Komnen Andrić,SRB,FW,28-331,1995,1.9,6,3.2,5,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Massamba Ndiaye,SEN,GK,22-232,2001,4.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Mateusz Wieteska,POL,DF,27-106,1997,1.9,1,0.51,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Maxime Gonalons,FRA,MF,35-078,1989,14.4,19,1.32,18,0,0,0,0,1,2,0.14,2,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Maximiliano Caufriez,BEL,DF,27-101,1997,18.4,14,0.76,13,1,0,0,0,0,2,0.11,2,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Mehdi Zeffane,ALG,"DF,MF",32-008,1992,13.7,24,1.76,18,2,0,3,1,0,3,0.22,1,1,0,0,1,0
+FRA-Ligue 1,2324,Clermont Foot,Mohamed Bouchenna,FRA,"MF,FW",17-347,2006,0.3,2,6.21,0,0,2,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Mory Diaw,SEN,GK,30-340,1993,30.0,7,0.23,6,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Muhammed Cham,AUT,"MF,FW",23-244,2000,28.4,119,4.2,71,27,3,8,10,0,9,0.32,4,3,0,2,0,0
+FRA-Ligue 1,2324,Clermont Foot,Neto Borges,BRA,DF,27-257,1996,28.0,50,1.79,37,5,2,2,3,1,3,0.11,1,0,0,0,2,0
+FRA-Ligue 1,2324,Clermont Foot,Shamar Nicholson,JAM,FW,27-072,1997,16.5,44,2.67,30,0,3,6,4,1,5,0.3,5,0,0,0,0,0
+FRA-Ligue 1,2324,Clermont Foot,Yohann Magnin,FRA,MF,26-341,1997,18.7,28,1.5,23,2,0,1,1,1,2,0.11,1,0,0,1,0,0
+FRA-Ligue 1,2324,Clermont Foot,Yoël Armougom,FRA,"DF,MF",25-357,1998,2.6,8,3.08,7,0,0,1,0,0,1,0.38,1,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Abdoulaye Touré,GUI,MF,30-085,1994,25.4,44,1.73,37,0,2,1,3,1,1,0.04,1,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Alois Confais,FRA,"MF,FW",27-263,1996,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,André Ayew,GHA,FW,34-162,1989,12.3,27,2.2,18,0,5,2,0,2,1,0.08,1,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Andy Logbo,FRA,FW,20-021,2004,2.8,3,1.09,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Antoine Joujou,FRA,"FW,MF",21-076,2003,8.7,31,3.59,17,0,5,5,4,0,5,0.58,3,0,1,0,1,0
+FRA-Ligue 1,2324,Le Havre,Arouna Sangante,SEN,DF,22-045,2002,29.9,39,1.31,28,4,0,0,3,4,4,0.13,2,0,0,0,1,1
+FRA-Ligue 1,2324,Le Havre,Arthur Desmas,FRA,GK,30-050,1994,33.0,4,0.12,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Christopher Operi,FRA,DF,27-028,1997,27.2,74,2.72,29,34,5,4,2,0,6,0.22,2,2,1,0,1,0
+FRA-Ligue 1,2324,Le Havre,Daler Kuzyaev,RUS,MF,31-133,1993,23.2,72,3.1,57,6,0,3,6,0,4,0.17,4,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Emmanuel Sabbi,USA,"FW,MF",26-155,1997,17.6,44,2.5,26,1,5,5,7,0,6,0.34,3,0,1,1,1,0
+FRA-Ligue 1,2324,Le Havre,Etienne Youte Kinkoue,FRA,DF,22-134,2002,21.6,12,0.56,9,2,0,0,0,1,1,0.05,1,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Gautier Lloris,FRA,DF,28-314,1995,30.9,18,0.58,16,1,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Issa Soumaré,SEN,"FW,MF",23-230,2000,2.6,7,2.66,2,0,2,1,2,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Josué Casimir,FRA,"FW,DF",22-246,2001,22.4,52,2.32,42,0,4,2,4,0,7,0.31,5,0,1,0,1,0
+FRA-Ligue 1,2324,Le Havre,Loïc Nego,HUN,"DF,MF",33-133,1991,17.3,39,2.25,29,2,1,1,6,0,8,0.46,6,0,0,0,2,0
+FRA-Ligue 1,2324,Le Havre,Mathieu Gorgelin,FRA,GK,33-296,1990,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Mohamed Lamine Bayo,GUI,FW,25-358,1998,15.4,39,2.53,26,0,5,6,1,1,6,0.39,3,0,2,1,0,0
+FRA-Ligue 1,2324,Le Havre,Nabil Alioui,FRA,"MF,FW",25-099,1999,11.2,40,3.56,24,11,3,2,0,0,2,0.18,1,1,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Nolan Mbemba,CGO,MF,29-098,1995,0.2,1,4.09,1,0,0,0,0,0,1,4.09,1,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Oualid El Hajjam,MAR,"DF,MF",33-098,1991,4.4,12,2.76,9,0,1,0,2,0,1,0.23,0,0,0,0,1,0
+FRA-Ligue 1,2324,Le Havre,Oussama Targhalline,MAR,MF,22-007,2002,11.4,24,2.11,18,0,0,0,3,3,2,0.18,2,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Rassoul Ndiaye,SEN,"MF,FW",22-168,2001,5.8,7,1.2,6,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Samuel Grandsir,FRA,"MF,FW",27-287,1996,6.7,31,4.61,20,5,3,2,0,1,2,0.3,1,0,1,0,0,0
+FRA-Ligue 1,2324,Le Havre,Simon Ebonog,CMR,MF,19-285,2004,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Steve Ngoura,FRA,"FW,MF",19-095,2005,2.5,9,3.6,7,0,2,0,0,0,1,0.4,1,0,0,0,0,0
+FRA-Ligue 1,2324,Le Havre,Yassine Kechta,MAR,MF,22-092,2002,20.5,47,2.29,39,2,0,2,4,0,2,0.1,1,0,0,1,0,0
+FRA-Ligue 1,2324,Le Havre,Yoann Salmier,GUF,DF,31-188,1992,17.4,17,0.98,15,1,0,1,0,0,3,0.17,2,0,0,1,0,0
+FRA-Ligue 1,2324,Lens,Abduqodir Xusanov,UZB,DF,20-088,2004,9.0,6,0.67,3,0,0,0,1,2,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Adrien Thomasson,FRA,MF,30-169,1993,13.3,75,5.64,59,9,0,4,3,0,3,0.23,1,1,0,0,1,0
+FRA-Ligue 1,2324,Lens,Andy Diouf,FRA,MF,21-010,2003,14.6,51,3.49,31,10,5,2,2,1,2,0.14,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Angelo Fulgini,FRA,MF,27-281,1996,15.3,69,4.51,40,20,1,4,4,0,4,0.26,2,2,0,0,0,0
+FRA-Ligue 1,2324,Lens,Ayanda Sishuba,BEL,"MF,FW",19-115,2005,0.7,8,11.61,1,0,4,3,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Brice Samba,FRA,GK,30-032,1994,33.0,8,0.24,7,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,David Pereira da Costa,POR,MF,23-143,2001,16.6,55,3.32,30,12,5,4,4,0,6,0.36,4,0,0,1,1,0
+FRA-Ligue 1,2324,Lens,Deiver Machado,COL,DF,30-268,1993,12.5,24,1.92,18,0,1,2,3,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Elye Wahi,FRA,FW,21-146,2003,18.8,41,2.18,23,1,3,6,5,3,3,0.16,1,1,0,1,0,0
+FRA-Ligue 1,2324,Lens,Facundo Medina,ARG,DF,24-365,1999,30.2,63,2.09,54,0,3,4,1,1,7,0.23,6,0,0,1,0,0
+FRA-Ligue 1,2324,Lens,Faitout Maouassa,FRA,"MF,DF",25-326,1998,0.8,4,4.68,2,1,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Florian Sotoca,FRA,"MF,FW",33-215,1990,28.9,109,3.78,90,3,6,4,6,0,13,0.45,11,1,1,0,0,0
+FRA-Ligue 1,2324,Lens,Jean-Louis Leca,FRA,GK,38-249,1985,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Jhoanner Chávez,ECU,DF,22-032,2002,5.3,9,1.68,8,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Jonathan Gradit,FRA,DF,31-185,1992,23.5,31,1.32,27,1,0,2,1,0,2,0.09,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Julien Le Cardinal,FRA,DF,26-298,1997,0.6,1,1.55,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Kevin Danso,AUT,DF,25-251,1998,29.5,32,1.08,27,0,0,3,1,1,3,0.1,3,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Massadio Haïdara,MLI,DF,31-177,1992,8.2,6,0.73,4,1,0,1,0,0,1,0.12,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Morgan Guilavogui,GUI,"FW,MF",26-078,1998,6.3,27,4.26,24,0,1,2,0,0,4,0.63,3,0,0,1,0,0
+FRA-Ligue 1,2324,Lens,Nampalys Mendy,SEN,MF,31-339,1992,11.7,23,1.97,19,0,1,1,0,2,5,0.43,3,0,0,1,0,1
+FRA-Ligue 1,2324,Lens,Neil El Aynaoui,FRA,MF,22-330,2001,17.4,25,1.44,20,0,0,1,3,1,3,0.17,2,0,0,0,1,0
+FRA-Ligue 1,2324,Lens,Oscar Cortés,COL,"FW,MF",20-176,2003,0.5,1,2.05,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Przemysław Frankowski,POL,DF,29-045,1995,24.4,76,3.12,63,8,2,2,0,1,4,0.16,3,0,0,1,0,0
+FRA-Ligue 1,2324,Lens,Ruben Aguilar,FRA,DF,31-031,1993,21.4,47,2.2,43,1,1,2,0,0,5,0.23,5,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Salis Abdul Samed,GHA,MF,24-062,2000,16.9,27,1.6,27,0,0,0,0,0,3,0.18,3,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Stijn Spierings,NED,MF,28-076,1996,1.3,1,0.76,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lens,Wesley Saïd,FRA,"FW,MF",29-038,1995,11.3,38,3.35,25,0,4,5,2,2,5,0.44,1,0,2,1,1,0
+FRA-Ligue 1,2324,Lille,Aaron Malouda,FRA,FW,18-179,2005,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Adam Ounas,ALG,FW,27-198,1996,4.6,28,6.04,17,1,4,2,4,0,1,0.22,0,0,0,1,0,0
+FRA-Ligue 1,2324,Lille,Alan Virginius,FRA,FW,21-145,2003,0.8,2,2.54,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Alexsandro Ribeiro,BRA,DF,24-292,1999,24.7,11,0.45,10,0,0,1,0,0,1,0.04,0,0,0,1,0,0
+FRA-Ligue 1,2324,Lille,Andrej Ilic,SRB,FW,24-054,2000,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Angel Gomes,ENG,MF,23-270,2000,28.6,107,3.75,73,12,4,7,9,2,12,0.42,8,3,0,1,0,0
+FRA-Ligue 1,2324,Lille,Ayyoub Bouaddi,FRA,MF,16-238,2007,1.5,2,1.37,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Bafodé Diakité,FRA,DF,23-142,2001,18.8,22,1.17,18,1,0,1,1,1,2,0.11,1,0,0,1,0,0
+FRA-Ligue 1,2324,Lille,Benjamin André,FRA,MF,33-298,1990,28.6,49,1.72,41,1,0,0,5,2,3,0.11,1,0,0,0,2,0
+FRA-Ligue 1,2324,Lille,Carlos Baleba,CMR,MF,20-145,2004,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Edon Zhegrova,KVX,FW,25-057,1999,25.4,123,4.84,63,20,25,10,5,0,15,0.59,9,1,5,0,0,0
+FRA-Ligue 1,2324,Lille,Gabriel Gudmundsson,SWE,"DF,FW",25-028,1999,14.1,22,1.56,17,0,3,1,0,1,2,0.14,1,0,0,1,0,0
+FRA-Ligue 1,2324,Lille,Hákon Arnar Haraldsson,ISL,"FW,MF",21-047,2003,14.3,35,2.45,23,2,3,2,5,0,1,0.07,0,0,0,0,1,0
+FRA-Ligue 1,2324,Lille,Ichem Ferrah,FRA,FW,18-247,2005,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Ignacio Miramon,ARG,MF,20-350,2003,0.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Ismaily,BRA,DF,34-137,1990,27.4,32,1.17,25,0,3,0,2,2,2,0.07,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Ivan Cavaleiro,POR,FW,30-222,1993,8.6,18,2.1,12,3,1,1,1,0,1,0.12,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Jonathan David,CAN,FW,24-134,2000,29.2,77,2.64,58,1,3,9,6,0,9,0.31,3,0,1,3,2,0
+FRA-Ligue 1,2324,Lille,Leny Yoro,FRA,DF,18-196,2005,29.7,15,0.51,9,1,0,3,0,2,3,0.1,1,0,0,2,0,0
+FRA-Ligue 1,2324,Lille,Lucas Chevalier,FRA,GK,22-203,2001,33.0,5,0.15,5,0,0,0,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Nabil Bentaleb,ALG,MF,29-185,1994,21.9,38,1.74,34,2,0,0,1,1,5,0.23,5,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Rémy Cabella,FRA,"FW,MF",34-080,1990,16.4,76,4.64,47,16,2,5,2,4,10,0.61,4,2,0,2,1,1
+FRA-Ligue 1,2324,Lille,Samuel Umtiti,FRA,DF,30-195,1993,2.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Tiago Fonseca Morais,POR,FW,20-267,2003,0.5,1,1.96,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Tiago santos,POR,DF,21-309,2002,26.3,68,2.59,46,4,7,0,10,1,6,0.23,4,1,1,0,0,0
+FRA-Ligue 1,2324,Lille,Trévis Dago,CIV,"FW,MF",19-127,2005,0.3,2,7.83,1,0,1,0,0,0,2,7.83,1,0,1,0,0,0
+FRA-Ligue 1,2324,Lille,Vito Mannone,ITA,GK,36-086,1988,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lille,Yusuf Yazıcı,TUR,"MF,FW",27-119,1997,14.6,40,2.74,26,7,1,5,0,1,5,0.34,4,1,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Adrian Grbić,AUT,FW,27-297,1996,0.3,1,2.9,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Aurélien Pelon,FRA,DF,20-021,2004,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Ayman Kari,FRA,MF,19-190,2004,9.9,33,3.32,29,0,1,1,2,0,3,0.3,3,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Badredine Bouanani,ALG,MF,19-171,2004,4.9,24,4.89,16,5,1,0,2,0,2,0.41,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Bamba Dieng,SEN,FW,24-065,2000,6.1,19,3.11,9,0,1,3,6,0,4,0.65,2,0,0,2,0,0
+FRA-Ligue 1,2324,Lorient,Bamo Meïté,CIV,DF,22-176,2001,1.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Bassirou Ndiaye,SEN,FW,22-102,2002,1.7,3,1.76,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Benjamin Mendy,FRA,DF,29-315,1994,7.9,23,2.91,15,5,1,2,0,0,2,0.25,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Bonke Innocent,NGA,MF,28-128,1996,2.3,2,0.86,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Darlin Yongwa,CMR,DF,23-248,2000,12.9,27,2.09,16,2,4,1,4,0,2,0.16,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Dembo Sylla,GUI,DF,21-199,2002,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Eli Junior Kroupi,FRA,"FW,MF",17-339,2006,12.0,20,1.66,13,3,3,1,0,0,3,0.25,2,0,1,0,0,0
+FRA-Ligue 1,2324,Lorient,Formose Mendy,SEN,DF,23-146,2001,14.0,10,0.72,8,0,0,1,0,1,1,0.07,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Gedeon Kalulu,COD,DF,26-272,1997,10.8,17,1.58,15,0,0,1,0,1,3,0.28,2,0,0,1,0,0
+FRA-Ligue 1,2324,Lorient,Gino Caoki,FRA,MF,19-315,2004,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Ibrahima Koné,MLI,FW,24-346,1999,0.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Igor Carioca,BRA,"DF,MF",27-280,1996,2.9,7,2.4,6,1,0,0,0,0,1,0.34,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Imran Louza,MAR,MF,25-026,1999,9.6,46,4.8,25,16,1,3,1,0,3,0.31,2,1,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Jean-Victor Makengo,FRA,"MF,FW",25-350,1998,5.3,4,0.75,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Joel Mugisha,NOR,FW,21-197,2002,2.0,,,,,,,,,,,,,,,,
+FRA-Ligue 1,2324,Lorient,Joel Mvuka,NOR,"DF,FW",21-187,2002,0.2,1,0.45,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Julien Laporte,FRA,DF,30-205,1993,20.2,8,0.4,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Julien Ponceau,FRA,MF,23-181,2000,24.9,83,3.33,58,7,7,6,4,1,8,0.32,6,0,0,2,0,0
+FRA-Ligue 1,2324,Lorient,Laurent Abergel,FRA,MF,31-116,1993,31.8,81,2.55,67,3,2,1,2,6,5,0.16,3,0,1,0,0,1
+FRA-Ligue 1,2324,Lorient,Loris Mouyokolo,FRA,DF,23-005,2001,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Mohamed Bamba,CIV,FW,22-169,2001,12.6,32,2.53,24,0,3,2,2,1,3,0.24,3,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Montassar Talbi,TUN,DF,26-001,1998,24.5,16,0.65,15,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Nathaniel Adjei,GHA,DF,21-280,2002,13.8,11,0.8,8,0,0,0,1,2,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Pablo Pagis,FRA,MF,21-150,2002,1.8,3,1.65,0,0,1,0,2,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Panos Katseris,GRE,DF,22-327,2001,11.6,20,1.73,15,0,1,2,1,1,3,0.26,2,0,0,1,0,0
+FRA-Ligue 1,2324,Lorient,Romain Faivre,FRA,"MF,FW",25-318,1998,16.1,43,2.66,28,7,3,3,2,0,6,0.37,4,0,0,2,0,0
+FRA-Ligue 1,2324,Lorient,Royce Openda Owaga,GAB,FW,22-036,2002,0.2,,,,,,,,,,,,,,,,
+FRA-Ligue 1,2324,Lorient,Siriné Doucouré,MLI,FW,22-049,2002,4.7,13,2.78,11,0,1,1,0,0,4,0.86,4,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Souleymane Touré,FRA,DF,21-060,2003,22.8,20,0.88,20,0,0,0,0,0,1,0.04,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Théo Le Bris,FRA,"DF,MF",21-239,2002,16.8,28,1.66,20,1,1,4,2,0,4,0.24,1,0,0,2,1,0
+FRA-Ligue 1,2324,Lorient,Tiemoué Bakayoko,FRA,MF,29-284,1994,14.6,13,0.89,10,1,0,1,0,1,3,0.21,2,0,0,1,0,0
+FRA-Ligue 1,2324,Lorient,Tosin Aiyegun,BEN,"MF,FW",25-336,1998,10.0,13,1.3,12,0,0,0,1,0,1,0.1,0,0,0,0,1,0
+FRA-Ligue 1,2324,Lorient,Vincent Le Goff,FRA,"DF,MF",34-225,1989,6.0,13,2.17,11,2,0,0,0,0,1,0.17,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lorient,Yvon Mvogo,SUI,GK,29-356,1994,34.0,7,0.21,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Adryelson,BRA,"DF,FW",26-065,1998,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Ainsley Maitland-Niles,ENG,"DF,MF",26-272,1997,15.9,33,2.07,27,0,0,4,1,1,7,0.44,7,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Alexandre Lacazette,FRA,FW,32-365,1991,25.5,56,2.2,39,0,5,6,6,0,9,0.35,4,0,2,1,2,0
+FRA-Ligue 1,2324,Lyon,Amin Sarr,SWE,"FW,MF",23-077,2001,1.1,3,2.73,1,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Anthony Lopes,POR,GK,33-239,1990,31.0,3,0.1,2,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Bradley Barcola,FRA,FW,21-268,2002,3.0,5,1.67,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Chaim El Djebali,TUN,MF,20-110,2004,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Clinton Mata,ANG,DF,31-202,1992,24.7,31,1.26,26,0,1,2,2,0,4,0.16,3,0,0,1,0,0
+FRA-Ligue 1,2324,Lyon,Corentin Tolisso,FRA,MF,29-298,1994,19.3,52,2.69,40,1,0,9,1,1,3,0.16,1,0,0,2,0,0
+FRA-Ligue 1,2324,Lyon,Dejan Lovren,CRO,DF,34-327,1989,8.0,4,0.5,3,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Diego Moreira,POR,"FW,MF",19-295,2004,3.0,4,1.34,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Duje Ćaleta-Car,CRO,DF,27-253,1996,22.1,12,0.54,10,0,0,1,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Ernest Nuamah,GHA,"FW,MF",20-208,2003,20.4,73,3.58,47,6,8,7,5,0,6,0.29,4,1,0,1,0,0
+FRA-Ligue 1,2324,Lyon,Gift Orban,NGA,FW,21-315,2002,5.3,8,1.52,6,0,1,0,1,0,1,0.19,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Henrique,BRA,DF,30-032,1994,6.7,9,1.33,6,1,1,0,1,0,1,0.15,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Jake O'Brien,IRL,DF,23-012,2001,26.3,14,0.53,8,1,0,5,0,0,2,0.08,0,0,0,2,0,0
+FRA-Ligue 1,2324,Lyon,Jeffinho,BRA,"FW,MF",24-149,1999,3.4,17,4.98,12,0,1,2,1,1,3,0.88,2,0,0,0,1,0
+FRA-Ligue 1,2324,Lyon,Johann Lepenant,FRA,MF,21-218,2002,2.8,7,2.48,6,0,0,1,0,0,1,0.35,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Mahamadou Diawara,FRA,MF,19-100,2005,4.0,9,2.26,6,0,0,1,2,0,1,0.25,0,0,0,1,0,0
+FRA-Ligue 1,2324,Lyon,Malick Fofana,BEL,FW,19-057,2005,6.2,19,3.05,11,0,2,3,2,1,3,0.48,1,0,0,1,1,0
+FRA-Ligue 1,2324,Lyon,Mama Samba Baldé,GNB,"FW,MF",28-203,1995,6.1,21,3.42,13,0,5,2,1,0,7,1.14,3,0,4,0,0,0
+FRA-Ligue 1,2324,Lyon,Mamadou Sarr,FRA,DF,18-272,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Maxence Caqueret,FRA,MF,24-102,2000,33.6,113,3.37,85,16,4,3,2,3,7,0.21,5,0,1,1,0,0
+FRA-Ligue 1,2324,Lyon,Mohamed El Arouch,FRA,FW,20-051,2004,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Nemanja Matić,SRB,MF,35-300,1988,13.9,23,1.65,21,0,2,0,0,0,3,0.22,3,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Nicolás Tagliafico,ARG,DF,31-270,1992,23.6,42,1.78,28,6,1,3,3,1,2,0.08,1,0,0,0,1,0
+FRA-Ligue 1,2324,Lyon,Orel Mangala,BEL,MF,26-070,1998,4.4,13,2.95,11,0,1,0,1,0,1,0.23,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Paul Akouokou,CIV,MF,26-159,1997,3.4,6,1.75,4,0,1,0,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Rayan Cherki,FRA,"MF,FW",20-284,2003,19.1,106,5.55,52,23,21,7,2,1,14,0.73,9,2,1,2,0,0
+FRA-Ligue 1,2324,Lyon,Rémy Riou,FRA,GK,36-295,1987,3.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Sael Kumbedi,FRA,DF,19-062,2005,10.3,16,1.56,15,0,1,0,0,0,2,0.19,2,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Saïd Benrahma,ALG,"FW,MF",28-291,1995,8.6,38,4.44,26,6,2,2,1,1,4,0.47,4,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Sinaly Diomande,CIV,DF,23-048,2001,9.9,6,0.61,5,0,0,1,0,0,1,0.1,1,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Skelly Alvero,FRA,MF,22-023,2002,4.7,12,2.54,7,1,1,2,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Lyon,Tino Kadewere,ZIM,"FW,MF",28-143,1996,3.3,9,2.73,8,0,0,0,1,0,1,0.3,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Amine Harit,MAR,"MF,FW",26-344,1997,20.2,90,4.45,66,5,9,2,7,1,7,0.35,7,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Azzedine Ounahi,MAR,MF,24-038,2000,13.4,44,3.28,40,1,0,1,2,0,3,0.22,2,1,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Bamo Meïté,CIV,DF,22-176,2001,7.1,6,0.85,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Bilal Nadir,FRA,"MF,FW",20-181,2003,1.3,3,2.37,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Chancel Mbemba,COD,DF,29-293,1994,24.5,20,0.82,17,0,1,2,0,0,2,0.08,2,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Emran Soglo,ENG,"MF,DF",18-321,2005,1.2,2,1.62,2,0,0,0,0,0,1,0.81,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Faris Pemi Moumbagna,CMR,FW,23-331,2000,6.1,15,2.47,11,0,0,2,2,0,2,0.33,1,0,0,0,1,0
+FRA-Ligue 1,2324,Marseille,François Mughe,CMR,"MF,DF",19-346,2004,2.0,13,6.65,7,1,1,0,4,0,1,0.51,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Geoffrey Kondogbia,CTA,MF,31-102,1993,16.3,27,1.66,21,0,0,1,4,1,3,0.18,3,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Iliman Ndiaye,SEN,"FW,MF",24-082,2000,18.0,61,3.39,43,1,8,4,5,0,9,0.5,5,0,0,1,3,0
+FRA-Ligue 1,2324,Marseille,Ismaila Sarr,SEN,"FW,MF",26-092,1998,16.1,40,2.49,30,0,2,3,5,0,5,0.31,5,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Jean Onana,CMR,MF,24-140,2000,6.3,10,1.59,9,0,0,1,0,0,1,0.16,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Joaquín Correa,ARG,"FW,MF",29-288,1994,4.8,12,2.51,9,0,2,0,1,0,1,0.21,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Jonathan Clauss,FRA,DF,31-245,1992,23.0,76,3.31,53,16,1,3,2,1,5,0.22,4,1,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Jordan Veretout,FRA,MF,31-087,1993,24.3,94,3.88,69,19,2,3,1,0,12,0.49,10,1,0,1,0,0
+FRA-Ligue 1,2324,Marseille,Keyliane Abdallah,FRA,FW,18-052,2006,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Leonardo Balerdi,ARG,DF,25-122,1999,25.2,27,1.07,24,1,1,0,1,0,3,0.12,2,0,0,0,1,0
+FRA-Ligue 1,2324,Marseille,Luis Henrique,BRA,"FW,DF",22-165,2001,8.7,29,3.33,27,0,2,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Mattéo Guendouzi,FRA,MF,25-043,1999,0.2,2,9.47,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Michael Amir Murillo,PAN,DF,28-106,1996,11.1,15,1.35,9,1,1,0,2,2,3,0.27,3,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Noam Mayoka-Tika,BEL,MF,20-207,2003,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Pape Gueye,SEN,"MF,DF",25-124,1999,8.5,19,2.24,16,0,0,1,2,0,2,0.24,2,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Pau López,ESP,GK,29-166,1994,32.7,10,0.31,9,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Pierre-Emerick Aubameyang,GAB,FW,34-344,1989,29.1,75,2.57,45,0,6,18,5,1,14,0.48,8,0,1,5,0,0
+FRA-Ligue 1,2324,Marseille,Quentin Merlin,FRA,DF,22-011,2002,7.8,23,2.95,13,7,1,2,0,0,2,0.26,2,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Raimane Daou,COM,"DF,MF",19-189,2004,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Renan Lodi,BRA,DF,26-049,1998,13.7,27,1.97,18,8,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Rubén Blanco,ESP,GK,28-307,1995,1.3,1,0.74,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Samuel Gigot,FRA,DF,30-228,1993,19.2,27,1.41,17,3,1,5,1,0,4,0.21,1,0,0,3,0,0
+FRA-Ligue 1,2324,Marseille,Sofiane Sidi Ali,FRA,MF,28-318,1995,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Ulisses Garcia,SUI,DF,28-137,1996,10.1,18,1.79,12,3,3,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Valentin Rongier,FRA,MF,29-172,1994,9.5,28,2.96,25,0,2,0,0,1,1,0.11,1,0,0,0,0,0
+FRA-Ligue 1,2324,Marseille,Vitinha,POR,FW,24-073,2000,10.3,37,3.61,23,0,5,3,4,2,6,0.59,3,0,1,2,0,0
+FRA-Ligue 1,2324,Metz,Ablie Jallow,GAM,"MF,FW",25-195,1998,10.2,30,2.94,19,6,2,1,2,0,7,0.69,6,1,0,0,0,0
+FRA-Ligue 1,2324,Metz,Abou Lô,SEN,"MF,DF",24-146,2000,2.2,2,0.91,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Alexandre Oukidja,ALG,GK,35-313,1988,33.2,4,0.12,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Arthur Atta,FRA,"MF,FW",21-134,2003,10.3,19,1.85,15,0,2,2,0,0,3,0.29,1,0,0,2,0,0
+FRA-Ligue 1,2324,Metz,Benjamin Tetteh,GHA,"FW,MF",26-322,1997,3.1,6,1.92,5,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Cheikh Tidiane Sabaly,SEN,"FW,MF",25-084,1999,15.3,39,2.55,28,0,4,2,4,1,4,0.26,3,0,0,1,0,0
+FRA-Ligue 1,2324,Metz,Christophe Hérelle,MTQ,DF,31-279,1992,18.0,15,0.83,13,0,1,0,1,0,2,0.11,2,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Danley Jean-Jacques,HAI,MF,24-007,2000,29.8,50,1.68,32,0,3,9,1,5,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Didier Lamkel Zé,CMR,"FW,MF",27-253,1996,6.1,15,2.45,13,1,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Fali Candé,GNB,DF,26-124,1998,20.5,17,0.83,10,1,2,2,1,1,3,0.15,1,0,0,1,1,0
+FRA-Ligue 1,2324,Metz,Georges Mikautadze,GEO,FW,23-209,2000,19.4,58,2.99,31,3,12,6,6,0,8,0.41,4,0,4,0,0,0
+FRA-Ligue 1,2324,Metz,Guillaume Dietsch,FRA,GK,23-040,2001,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Habib Maïga,CIV,"MF,FW",28-147,1996,1.6,1,0.61,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Ibou Sané,SEN,"MF,FW",19-060,2005,1.4,2,1.41,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Ismaël Traoré,CIV,DF,37-283,1986,24.7,8,0.32,7,0,0,1,0,0,2,0.08,2,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Jean Frederic N'Guessan,CIV,"MF,FW",21-040,2003,1.2,4,3.24,1,0,1,0,1,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Joel Asoro,SWE,"FW,MF",25-030,1999,9.4,21,2.23,11,2,2,1,5,0,3,0.32,1,0,1,0,1,0
+FRA-Ligue 1,2324,Metz,Joseph Nduquidi,FRA,"MF,DF",19-209,2004,8.3,3,0.36,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Koffi Kouao,CIV,DF,26-007,1998,9.6,13,1.36,8,2,0,1,1,1,2,0.21,1,0,0,1,0,0
+FRA-Ligue 1,2324,Metz,Kévin N'Doram,FRA,MF,28-126,1996,17.8,22,1.23,18,0,0,2,2,0,3,0.17,3,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Kévin Van Den Kerkhof,ALG,"FW,MF",28-074,1996,21.3,38,1.79,23,9,1,1,2,2,5,0.24,5,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Lamine Camara,SEN,MF,20-147,2004,25.1,70,2.8,32,26,3,4,2,3,11,0.44,6,3,1,0,0,1
+FRA-Ligue 1,2324,Metz,Malick Mbaye,SEN,"MF,FW",20-051,2004,1.7,3,1.76,0,2,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Matthieu Udol,FRA,DF,28-068,1996,30.0,54,1.8,42,2,1,3,5,1,3,0.1,3,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Maxime Colin,FRA,DF,32-194,1991,20.4,24,1.18,16,4,1,1,1,1,1,0.05,0,0,0,0,1,0
+FRA-Ligue 1,2324,Metz,Oscar Estupiñan,COL,FW,27-150,1996,2.9,2,0.69,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Papa Amadou Diallo,SEN,FW,19-337,2004,9.9,20,2.02,18,0,0,1,0,1,1,0.1,1,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Sadibou Sané,SEN,DF,19-352,2004,9.4,5,0.53,4,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Simon Elisor,FRA,FW,24-310,1999,8.5,19,2.24,13,0,1,1,4,0,1,0.12,1,0,0,0,0,0
+FRA-Ligue 1,2324,Metz,Youssef Maziz,FRA,"FW,MF",25-338,1998,1.4,6,4.35,2,2,0,1,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Aleksandr Golovin,RUS,"MF,FW",27-363,1996,23.9,102,4.28,62,29,3,3,3,2,7,0.29,6,0,0,1,0,0
+FRA-Ligue 1,2324,Monaco,Antonin Cartillier,FRA,DF,19-339,2004,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Breel Embolo,SUI,FW,27-103,1997,2.0,10,4.95,8,0,2,0,0,0,1,0.49,1,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Caio Henrique Oliveira Silva,BRA,DF,26-301,1997,6.9,25,3.61,14,8,2,0,0,1,5,0.72,2,3,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Chrislain Matsima,FRA,DF,22-012,2002,3.3,7,2.11,7,0,0,0,0,0,1,0.3,1,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Denis Zakaria,SUI,"MF,DF",27-189,1996,23.7,36,1.52,26,0,3,4,0,3,3,0.13,2,0,1,0,0,0
+FRA-Ligue 1,2324,Monaco,Edan Diop,FRA,"MF,DF",19-273,2004,1.8,1,0.55,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Eliesse Ben Seghir,MAR,"MF,FW",19-101,2005,4.8,20,4.21,12,0,2,1,5,0,5,1.05,2,0,1,0,2,0
+FRA-Ligue 1,2324,Monaco,Eliot Matazo,BEL,MF,22-102,2002,1.1,2,1.78,2,0,0,0,0,0,1,0.89,1,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Folarin Balogun,USA,FW,22-329,2001,18.8,61,3.24,40,0,6,10,5,0,8,0.43,4,0,2,1,1,0
+FRA-Ligue 1,2324,Monaco,Guillermo Maripán,CHI,DF,30-021,1994,19.6,9,0.46,7,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Ismail Jakobs,SEN,DF,24-284,1999,16.3,50,3.07,32,9,1,4,2,2,8,0.49,6,1,0,1,0,0
+FRA-Ligue 1,2324,Monaco,Kassoum Ouattara,FRA,"DF,FW",19-226,2004,7.1,14,1.98,10,1,1,1,0,1,1,0.14,0,0,1,0,0,0
+FRA-Ligue 1,2324,Monaco,Krépin Diatta,SEN,"DF,FW",25-092,1999,13.4,41,3.06,34,4,2,0,1,0,8,0.6,7,0,1,0,0,0
+FRA-Ligue 1,2324,Monaco,Lucas Michel,FRA,MF,20-037,2004,0.1,,,,,,,,,,,,,,,,
+FRA-Ligue 1,2324,Monaco,Maghnes Akliouche,FRA,"MF,FW",22-092,2002,17.9,88,4.91,59,11,6,3,4,5,9,0.5,7,0,0,0,0,2
+FRA-Ligue 1,2324,Monaco,Mamadou Coulibaly,FRA,MF,20-036,2004,1.3,5,3.81,4,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Mohamed Camara,MLI,MF,24-142,2000,11.5,41,3.57,37,0,1,1,1,1,7,0.61,7,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Mohammed Salisu,GHA,DF,25-040,1999,11.5,10,0.87,9,0,0,0,0,1,2,0.17,2,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Myron Boadu,NED,FW,23-134,2001,0.9,1,1.06,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Philipp Köhn,SUI,GK,26-055,1998,22.0,3,0.14,2,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Radosław Majecki,POL,GK,24-193,1999,12.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Saïmon Bouabré,FRA,MF,17-361,2006,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Soungoutou Magassa,FRA,"DF,MF",20-232,2003,15.0,13,0.87,11,0,0,1,0,1,1,0.07,1,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Takumi Minamino,JPN,MF,29-132,1995,23.5,74,3.15,56,3,2,5,6,2,12,0.51,10,0,0,1,1,0
+FRA-Ligue 1,2324,Monaco,Thilo Kehrer,GER,DF,27-249,1996,14.7,19,1.29,13,1,0,5,0,0,4,0.27,3,0,0,1,0,0
+FRA-Ligue 1,2324,Monaco,Vanderson,BRA,DF,22-341,2001,18.2,42,2.3,32,3,2,4,0,1,4,0.22,3,0,0,1,0,0
+FRA-Ligue 1,2324,Monaco,Wilfried Singo,CIV,DF,23-154,2000,24.3,36,1.48,31,1,0,2,1,1,2,0.08,2,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Wissam Ben Yedder,FRA,FW,33-289,1990,25.7,74,2.88,62,0,3,7,1,1,8,0.31,8,0,0,0,0,0
+FRA-Ligue 1,2324,Monaco,Youssouf Fofana,FRA,MF,25-138,1999,30.0,100,3.34,79,3,2,11,2,3,10,0.33,6,0,0,4,0,0
+FRA-Ligue 1,2324,Montpellier,Akor Adams,NGA,FW,24-119,2000,25.0,43,1.72,29,0,5,8,1,0,3,0.12,0,0,2,1,0,0
+FRA-Ligue 1,2324,Montpellier,Arnaud Nordin,FRA,"FW,MF",25-345,1998,13.8,56,4.04,39,0,6,4,7,0,6,0.43,5,0,0,0,1,0
+FRA-Ligue 1,2324,Montpellier,Axel Gueguin,FRA,"DF,FW",19-064,2005,1.5,2,1.36,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Becir Omeragic,SUI,"DF,MF",22-128,2002,25.7,25,0.97,22,0,0,1,2,0,1,0.04,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Benjamin Lecomte,FRA,GK,33-031,1991,30.0,8,0.27,6,2,0,0,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Boubakar Kouyaté,MLI,DF,27-042,1997,21.4,11,0.51,6,0,0,4,1,0,2,0.09,1,0,0,1,0,0
+FRA-Ligue 1,2324,Montpellier,Christopher Jullien,FRA,DF,31-066,1993,13.7,10,0.74,8,0,0,1,0,1,1,0.07,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Dimitry Bertaud,COD,GK,25-356,1998,4.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Elye Wahi,FRA,FW,21-146,2003,0.2,1,6.92,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Enzo Tchato,CMR,DF,21-186,2002,12.5,18,1.44,13,3,0,0,1,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Falaye Sacko,MLI,DF,29-026,1995,15.4,27,1.76,23,1,0,0,2,1,4,0.26,4,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Issiaga Sylla,GUI,"DF,FW",30-147,1994,16.2,31,1.92,22,5,1,2,0,1,2,0.12,2,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Jordan Ferri,FRA,MF,32-076,1992,22.6,67,2.97,58,2,2,1,3,1,2,0.09,2,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Joris Chotard,FRA,MF,22-246,2001,28.7,46,1.6,38,2,0,2,2,2,4,0.14,4,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Kelvin Yeboah,ITA,FW,24-021,2000,3.1,9,2.93,7,0,1,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Khalil Fayad,FRA,"FW,MF",19-353,2004,11.4,19,1.67,10,0,0,2,6,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Lucas Mincarelli,FRA,"DF,MF",20-143,2004,10.9,11,1.01,11,0,0,0,0,0,1,0.09,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Léo Leroy,FRA,MF,24-103,2000,5.5,8,1.44,6,0,0,2,0,0,1,0.18,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Mamadou Sakho,FRA,DF,34-104,1990,0.1,1,12.86,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Maxime Estève,FRA,DF,22-001,2002,11.1,11,0.93,9,1,0,1,0,0,1,0.08,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Modibo Sagnan,MLI,DF,25-043,1999,11.7,8,0.68,7,0,0,0,0,1,1,0.09,1,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Musa Al-Taamari,JOR,FW,26-352,1997,21.4,70,3.27,34,2,12,6,14,2,8,0.37,3,0,3,0,2,0
+FRA-Ligue 1,2324,Montpellier,Othmane Maamma,FRA,FW,18-234,2005,1.0,7,7.16,3,0,3,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Sacha Delaye,FRA,"MF,FW",22-034,2002,1.4,6,4.15,5,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Silvan Hefti,SUI,"DF,FW",26-215,1997,7.9,11,1.39,9,1,0,1,0,0,3,0.38,3,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Tanguy Coulibaly,FRA,"FW,MF",23-099,2001,6.9,20,2.89,13,0,3,2,2,0,3,0.43,1,0,0,1,1,0
+FRA-Ligue 1,2324,Montpellier,Théo Sainte-Luce,FRA,DF,25-220,1998,3.8,3,0.78,0,1,0,0,1,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Montpellier,Téji Savanier,FRA,MF,32-157,1991,30.7,184,5.99,100,55,6,11,8,4,19,0.62,11,5,1,2,0,0
+FRA-Ligue 1,2324,Montpellier,Wahbi Khazri,TUN,FW,33-109,1991,12.6,26,2.07,15,1,4,2,4,0,2,0.16,1,0,0,1,0,0
+FRA-Ligue 1,2324,Montpellier,Yanis Ali Issoufou,FRA,FW,17-212,2006,0.1,,,,,,,,,,,,,,,,
+FRA-Ligue 1,2324,Montpellier,Yann Karamoh,FRA,"FW,MF",25-324,1998,3.2,9,2.85,6,0,1,1,1,0,1,0.32,0,0,0,1,0,0
+FRA-Ligue 1,2324,Nantes,Abdoul Kader Bamba,FRA,"FW,MF",30-002,1994,6.8,36,5.29,22,3,2,3,6,0,3,0.44,2,1,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Adel Mahamoud,COM,FW,21-113,2003,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Adson,BRA,"MF,FW",23-234,2000,2.6,9,3.4,8,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Alban Lafont,FRA,GK,25-125,1999,27.7,6,0.22,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Bastien Meupiyou,FRA,DF,18-069,2006,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Bénie Adama Traore,CIV,"FW,MF",21-179,2002,5.6,15,2.68,13,1,0,1,0,0,1,0.18,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Denis Petrić,SRB,GK,36-003,1988,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Douglas,BRA,MF,27-135,1997,19.7,37,1.88,26,5,0,1,3,2,2,0.1,2,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Enzo Mongo,FRA,DF,19-049,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Eray Cömert,SUI,DF,26-113,1998,22.2,16,0.72,11,0,0,2,1,2,1,0.05,0,0,0,1,0,0
+FRA-Ligue 1,2324,Nantes,Fabien Centonze,FRA,DF,28-132,1996,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Florent Mollet,FRA,"MF,FW",32-190,1991,23.1,66,2.85,39,17,3,6,1,0,5,0.22,2,2,0,0,1,0
+FRA-Ligue 1,2324,Nantes,Hugo Boutsingkham,FRA,"MF,FW",21-128,2003,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Ignatius Ganago,CMR,"FW,MF",25-101,1999,2.0,5,2.45,4,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Jaouen Hadjam,ALG,DF,21-062,2003,1.2,7,5.53,6,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Jean-Charles Castelletto,CMR,DF,29-122,1995,27.4,25,0.91,23,0,1,0,1,0,1,0.04,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Jean-Kevin Duverne,HAI,DF,26-320,1997,15.0,12,0.8,10,0,0,1,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Kelvin Amian,FRA,DF,26-109,1998,8.9,8,0.9,8,0,0,0,0,0,1,0.11,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Lamine Diack,SEN,MF,23-194,2000,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Marcus Coco,FRA,"DF,FW",27-338,1996,16.5,30,1.82,26,0,1,1,2,0,2,0.12,1,0,0,1,0,0
+FRA-Ligue 1,2324,Nantes,Marquinhos,BRA,"FW,MF",21-050,2003,1.7,9,5.26,8,0,0,0,1,0,1,0.58,0,0,0,0,1,0
+FRA-Ligue 1,2324,Nantes,Matthis Abline,FRA,FW,21-060,2003,11.6,38,3.28,30,0,5,2,1,0,2,0.17,0,0,1,0,1,0
+FRA-Ligue 1,2324,Nantes,Moses Simon,NGA,"FW,MF",28-320,1995,19.9,65,3.27,45,1,12,2,5,0,7,0.35,6,0,0,0,1,0
+FRA-Ligue 1,2324,Nantes,Mostafa Mohamed,EGY,FW,26-181,1997,22.2,48,2.16,28,1,4,12,2,1,5,0.22,3,0,0,0,1,1
+FRA-Ligue 1,2324,Nantes,Moussa Sissoko,FRA,MF,34-285,1989,20.2,36,1.78,32,0,1,2,0,1,4,0.2,3,0,0,1,0,0
+FRA-Ligue 1,2324,Nantes,Nathan Zeze,FRA,DF,18-344,2005,11.4,1,0.09,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Nicolas Cozza,FRA,DF,25-140,1999,9.9,15,1.51,9,0,1,0,5,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Nicolas Pallois,FRA,DF,36-251,1987,17.7,9,0.51,8,0,1,0,0,0,1,0.06,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Pedro Chirivella,ESP,MF,27-004,1997,28.8,69,2.39,61,3,0,3,0,2,4,0.14,4,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Quentin Merlin,FRA,DF,22-011,2002,14.3,44,3.09,36,4,0,3,0,1,5,0.35,3,1,0,1,0,0
+FRA-Ligue 1,2324,Nantes,Ronaël Pierre-Gabriel,FRA,DF,25-349,1998,6.6,4,0.6,1,0,0,2,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Rémy Descamps,FRA,GK,27-337,1996,6.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Samuel Moutoussamy,COD,MF,27-289,1996,12.3,32,2.6,28,0,1,0,2,1,2,0.16,1,0,0,0,1,0
+FRA-Ligue 1,2324,Nantes,Stredair Appuah,FRA,"FW,MF",19-335,2004,0.9,2,2.14,0,0,1,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nantes,Tino Kadewere,ZIM,"FW,MF",28-143,1996,8.7,21,2.42,18,0,1,1,1,0,1,0.12,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Alexis Claude-Maurice,FRA,MF,25-356,1998,5.6,14,2.5,9,3,0,1,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Aliou Badara Baldé,SEN,"FW,DF",21-167,2002,0.8,5,6.25,2,0,2,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Antoine Mendy,FRA,DF,20-000,2004,4.6,7,1.51,5,1,0,0,1,0,1,0.22,0,1,0,0,0,0
+FRA-Ligue 1,2324,Nice,Badredine Bouanani,ALG,FW,19-171,2004,1.8,10,5.59,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Bilal Brahimi,ALG,FW,24-074,2000,0.1,1,8.18,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Dante,BRA,DF,40-222,1983,31.6,51,1.61,49,0,0,2,0,0,6,0.19,6,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Daouda Traoré,FRA,MF,17-310,2006,0.2,1,5.63,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Evann Guessand,FRA,FW,22-331,2001,17.3,47,2.72,27,0,7,5,6,2,5,0.29,1,0,1,0,3,0
+FRA-Ligue 1,2324,Nice,Gaëtan Laborde,FRA,"FW,MF",30-024,1994,21.2,52,2.46,39,2,5,4,0,2,3,0.14,2,0,0,1,0,0
+FRA-Ligue 1,2324,Nice,Hicham Boudaoui,ALG,MF,24-247,1999,17.9,47,2.62,35,2,2,5,3,0,3,0.17,3,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Jean-Clair Todibo,FRA,DF,24-149,1999,29.5,42,1.43,38,0,0,2,0,2,6,0.2,5,0,0,1,0,0
+FRA-Ligue 1,2324,Nice,Jeremie Boga,CIV,FW,27-145,1997,22.2,80,3.6,43,16,14,6,1,0,11,0.5,6,2,3,0,0,0
+FRA-Ligue 1,2324,Nice,Jordan Lotomba,SUI,DF,25-241,1998,20.0,27,1.35,19,3,1,2,2,0,1,0.05,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Khéphren Thuram,FRA,MF,23-062,2001,23.4,79,3.37,59,0,6,7,3,4,5,0.21,5,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Marcin Bułka,POL,GK,24-236,1999,34.0,3,0.09,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Melvin Bard,FRA,DF,23-203,2000,29.5,51,1.73,39,4,1,2,1,4,3,0.1,3,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Mohamed Ali Cho,FRA,FW,20-129,2004,9.6,34,3.56,20,4,5,0,5,0,4,0.42,3,0,0,0,1,0
+FRA-Ligue 1,2324,Nice,Morgan Sanson,FRA,MF,29-283,1994,21.8,74,3.39,44,21,2,5,1,1,5,0.23,3,1,0,0,0,1
+FRA-Ligue 1,2324,Nice,Pablo Rosario,NED,"MF,DF",27-141,1997,22.3,39,1.75,34,1,0,1,2,1,5,0.22,2,0,0,1,2,0
+FRA-Ligue 1,2324,Nice,Reda Belahyane,FRA,MF,19-361,2004,0.3,2,6.67,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Romain Perraud,FRA,"DF,FW",26-248,1997,4.1,5,1.22,4,1,0,0,0,0,2,0.49,1,1,0,0,0,0
+FRA-Ligue 1,2324,Nice,Sofiane Diop,FRA,FW,23-353,2000,5.5,17,3.07,14,0,1,1,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Terem Moffi,NGA,FW,25-002,1999,21.7,44,2.03,32,0,6,2,3,1,5,0.23,4,0,1,0,0,0
+FRA-Ligue 1,2324,Nice,Tom Louchet,FRA,"MF,DF",21-023,2003,4.5,14,3.1,6,5,0,1,2,0,2,0.44,1,0,0,0,1,0
+FRA-Ligue 1,2324,Nice,Valentin Rosier,FRA,"DF,MF",27-282,1996,0.6,4,6.92,1,1,0,1,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Youcef Atal,ALG,DF,28-010,1996,4.0,12,3.01,9,0,1,1,1,0,1,0.25,1,0,0,0,0,0
+FRA-Ligue 1,2324,Nice,Youssouf Ndayishimiye,BDI,"MF,DF",25-213,1998,19.0,29,1.52,27,1,0,1,0,0,1,0.05,1,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Achraf Hakimi,MAR,DF,25-205,1998,21.5,93,4.33,79,1,2,5,5,1,14,0.65,13,0,0,1,0,0
+FRA-Ligue 1,2324,Paris S-G,Arnau Tenas,ESP,GK,22-363,2001,5.9,1,0.17,1,0,0,0,0,0,1,0.17,1,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Bradley Barcola,FRA,"FW,MF",21-268,2002,15.2,70,4.6,54,0,13,1,1,1,12,0.79,10,0,1,0,0,1
+FRA-Ligue 1,2324,Paris S-G,Carlos Soler,ESP,"MF,DF",27-146,1997,12.1,37,3.06,30,2,1,2,2,0,2,0.17,2,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Cher Ndour,ITA,MF,19-305,2004,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Danilo Pereira,POR,DF,32-261,1991,22.2,14,0.63,14,0,0,0,0,0,2,0.09,2,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Ethan Mbappé,FRA,"MF,DF",17-150,2006,0.5,1,1.87,1,0,0,0,0,0,1,1.87,1,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Fabián Ruiz Peña,ESP,MF,28-054,1996,13.3,40,3.01,32,1,5,2,0,0,6,0.45,4,1,1,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Gianluigi Donnarumma,ITA,GK,25-092,1999,24.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Gonçalo Ramos,POR,FW,22-342,2001,15.8,34,2.16,22,0,1,3,4,4,6,0.38,3,0,0,0,3,0
+FRA-Ligue 1,2324,Paris S-G,Hugo Ekitike,FRA,FW,21-342,2002,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Keylor Navas,CRC,GK,37-164,1986,4.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Kylian Mbappé,FRA,FW,25-159,1998,24.0,97,4.04,68,0,20,3,6,0,19,0.79,11,0,4,1,3,0
+FRA-Ligue 1,2324,Paris S-G,Layvin Kurzawa,FRA,DF,31-266,1992,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Lee Kang-in,KOR,"FW,MF",23-098,2001,16.3,68,4.18,48,12,5,3,0,0,9,0.55,7,1,1,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Lucas Beraldo,BRA,DF,20-185,2003,11.2,14,1.25,13,1,0,0,0,0,1,0.09,1,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Lucas Hernández,FRA,DF,28-103,1996,21.2,25,1.17,19,1,0,1,2,2,3,0.14,1,0,0,1,1,0
+FRA-Ligue 1,2324,Paris S-G,Manuel Ugarte Ribeiro,URU,MF,23-046,2001,21.5,38,1.77,31,0,3,0,3,1,5,0.23,3,0,1,0,1,0
+FRA-Ligue 1,2324,Paris S-G,Marco Asensio,ESP,"MF,FW",28-127,1996,12.4,52,4.21,38,10,1,1,1,1,7,0.57,5,1,0,1,0,0
+FRA-Ligue 1,2324,Paris S-G,Marquinhos,BRA,DF,30-013,1994,17.1,13,0.76,13,0,0,0,0,0,2,0.12,2,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Milan Škriniar,SVK,DF,29-106,1995,18.1,7,0.39,6,0,0,1,0,0,1,0.06,1,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Nordi Mukiele,FRA,DF,26-208,1997,8.8,9,1.02,6,0,1,1,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Nuno Mendes,POR,DF,21-343,2002,3.0,7,2.36,6,0,1,0,0,0,2,0.67,2,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Ousmane Dembélé,FRA,"MF,FW",27-012,1997,16.7,118,7.05,86,9,12,6,3,2,19,1.14,16,0,1,1,1,0
+FRA-Ligue 1,2324,Paris S-G,Randal Kolo Muani,FRA,"FW,MF",25-174,1998,14.1,50,3.55,39,0,3,3,5,0,8,0.57,7,0,1,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Senny Mayulu,FRA,"FW,MF",18-010,2006,3.6,9,2.5,8,0,1,0,0,0,1,0.28,1,0,0,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Vitinha,POR,MF,24-104,2000,23.6,79,3.32,68,7,2,0,2,0,14,0.59,12,1,0,0,1,0
+FRA-Ligue 1,2324,Paris S-G,Warren Zaire-Emery,FRA,"MF,DF",18-080,2006,21.8,60,2.75,54,0,5,0,0,1,10,0.46,9,0,1,0,0,0
+FRA-Ligue 1,2324,Paris S-G,Yoram Zague,FRA,DF,18-012,2006,4.1,7,1.69,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Abdoul Koné,FRA,DF,19-035,2005,2.1,2,0.93,1,0,0,0,1,0,2,0.93,1,0,0,0,1,0
+FRA-Ligue 1,2324,Reims,Adama Bojang,GAM,FW,19-365,2004,0.9,2,2.17,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Amadou Koné,MLI,MF,19-013,2005,5.3,6,1.14,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Amine Salama,FRA,FW,23-314,2000,3.5,8,2.3,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Amir Richardson,MAR,MF,22-124,2002,15.0,29,1.93,24,0,0,4,0,1,1,0.07,1,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Azor Matusiwa,NED,MF,26-029,1998,15.4,32,2.08,26,0,1,2,2,1,6,0.39,4,0,1,0,1,0
+FRA-Ligue 1,2324,Reims,Benjamin Stambouli,FRA,MF,33-288,1990,3.2,3,0.94,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Christ Mbondi,FRA,FW,19-220,2004,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Emmanuel Agbadou,CIV,DF,26-345,1997,28.8,47,1.63,43,0,0,4,0,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Ibrahim Diakité,GUI,DF,20-209,2003,1.2,4,3.27,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Joseph Okumu,KEN,DF,27-001,1997,19.4,14,0.72,12,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Josh Wilson-Esbrand,ENG,"DF,MF",21-153,2002,5.1,9,1.76,9,0,0,0,0,0,2,0.39,2,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Junya Ito,JPN,"FW,MF",31-079,1993,30.2,135,4.48,96,23,8,7,1,0,10,0.33,9,0,0,1,0,0
+FRA-Ligue 1,2324,Reims,Keito Nakamura,JPN,"FW,MF",23-304,2000,15.3,37,2.41,30,0,3,4,0,0,3,0.2,3,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Mamadou Diakhon,FRA,"FW,MF",18-248,2005,2.3,4,1.72,1,0,1,0,2,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Marshall Munetsi,ZIM,MF,27-340,1996,24.1,29,1.2,22,0,1,4,2,0,6,0.25,5,0,0,0,1,0
+FRA-Ligue 1,2324,Reims,Maxime Busi,BEL,"FW,DF",24-226,1999,1.8,6,3.33,4,0,1,0,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Mohammed Daramy,DEN,"FW,MF",22-141,2002,18.3,59,3.22,43,0,9,3,4,0,8,0.44,7,0,1,0,0,0
+FRA-Ligue 1,2324,Reims,Oumar Diakité,CIV,FW,20-159,2003,17.6,41,2.33,26,0,9,1,3,2,5,0.28,3,0,1,0,0,1
+FRA-Ligue 1,2324,Reims,Reda Khadra,GER,"FW,MF",22-328,2001,15.2,46,3.03,33,1,6,5,1,0,7,0.46,4,0,3,0,0,0
+FRA-Ligue 1,2324,Reims,Sergio Akieme,ESP,DF,26-163,1997,9.1,19,2.09,12,1,3,2,0,1,1,0.11,0,0,0,1,0,0
+FRA-Ligue 1,2324,Reims,Teddy Teuma,MLT,MF,30-240,1993,23.5,92,3.92,60,22,4,4,1,1,10,0.43,5,3,1,0,0,1
+FRA-Ligue 1,2324,Reims,Therence Koudou,FRA,DF,19-166,2004,3.5,14,4.01,11,1,1,0,1,0,1,0.29,1,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Thibault De Smet,BEL,DF,25-357,1998,20.3,23,1.13,18,1,2,1,1,0,1,0.05,0,0,0,0,1,0
+FRA-Ligue 1,2324,Reims,Thomas Foket,BEL,DF,29-245,1994,20.4,30,1.48,27,2,0,1,0,0,6,0.3,6,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Valentin Atangana Edoa,FRA,MF,18-276,2005,6.2,6,0.97,2,0,0,2,1,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Yaya Kader Fofana,MLI,"MF,DF",19-350,2004,0.4,2,5.63,0,0,1,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Yehvann Diouf,FRA,GK,24-193,1999,34.0,4,0.12,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Reims,Yunis Abdelhamid,MAR,DF,36-242,1987,30.9,24,0.78,19,1,0,3,1,0,1,0.03,0,0,0,1,0,0
+FRA-Ligue 1,2324,Rennes,Adrien Truffert,FRA,DF,22-189,2001,23.8,38,1.59,27,0,4,2,5,0,3,0.13,1,0,0,1,1,0
+FRA-Ligue 1,2324,Rennes,Alidu Seidu,GHA,DF,23-358,2000,6.6,8,1.21,7,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Amine Gouiri,ALG,"FW,MF",24-101,2000,23.0,85,3.7,53,3,13,11,5,0,10,0.44,6,0,2,2,0,0
+FRA-Ligue 1,2324,Rennes,Arnaud Kalimuendo,FRA,FW,22-128,2002,23.8,70,2.95,49,1,5,6,9,0,7,0.29,3,0,0,1,3,0
+FRA-Ligue 1,2324,Rennes,Arthur Theate,BEL,DF,24-002,2000,25.5,21,0.82,16,1,1,2,1,0,3,0.12,1,0,0,2,0,0
+FRA-Ligue 1,2324,Rennes,Azor Matusiwa,NED,MF,26-029,1998,8.8,17,1.93,17,0,0,0,0,0,3,0.34,3,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Baptiste Santamaria,FRA,MF,29-079,1995,21.4,48,2.24,39,1,1,3,1,3,3,0.14,2,0,0,1,0,0
+FRA-Ligue 1,2324,Rennes,Benjamin Bourigeaud,FRA,"MF,FW",30-134,1994,26.9,113,4.19,70,34,2,7,0,0,14,0.52,11,1,0,2,0,0
+FRA-Ligue 1,2324,Rennes,Bertuğ Yıldırım,TUR,FW,21-320,2002,5.2,14,2.68,6,0,2,2,3,1,4,0.76,1,0,0,1,1,1
+FRA-Ligue 1,2324,Rennes,Birger Meling,NOR,DF,29-162,1994,0.2,1,5.29,0,0,0,1,0,0,1,5.29,0,0,0,1,0,0
+FRA-Ligue 1,2324,Rennes,Christopher Wooh,CMR,DF,22-252,2001,15.4,14,0.91,10,1,0,2,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Djaoui Cissé,FRA,MF,20-117,2004,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Désiré Doué,FRA,"MF,FW",18-359,2005,18.1,88,4.87,56,4,14,4,7,3,12,0.66,6,0,3,1,1,1
+FRA-Ligue 1,2324,Rennes,Enzo Le Fée,FRA,MF,24-114,2000,17.0,57,3.36,47,4,2,2,1,1,1,0.06,1,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Fabian Rieder,SUI,MF,22-101,2002,4.1,13,3.21,11,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Guela Doué,CIV,DF,21-223,2002,13.7,39,2.84,28,2,2,3,3,1,8,0.58,6,0,0,0,2,0
+FRA-Ligue 1,2324,Rennes,Ibrahim Salah,MAR,"FW,MF",22-271,2001,5.8,17,2.93,13,0,1,3,0,0,1,0.17,1,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Jeanuël Belocian,FRA,DF,19-100,2005,16.1,15,0.93,11,2,0,2,0,0,1,0.06,1,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Jeremy Doku,BEL,FW,22-000,2002,1.2,9,7.23,5,0,2,2,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Jérémy Jacquet,FRA,MF,18-319,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Lorenz Assignon,TOG,DF,23-340,2000,11.2,38,3.38,27,3,4,0,2,2,6,0.53,3,0,2,0,1,0
+FRA-Ligue 1,2324,Rennes,Lovro Majer,CRO,MF,26-131,1998,0.2,2,10.59,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Ludovic Blas,FRA,"FW,MF",26-148,1997,17.4,45,2.59,28,5,6,5,1,0,6,0.35,3,0,0,2,1,0
+FRA-Ligue 1,2324,Rennes,Mahamadou Nagida,CMR,DF,18-334,2005,1.2,8,6.79,4,1,0,2,0,1,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Martin Terrier,FRA,"FW,MF",27-084,1997,17.0,51,3.01,35,0,1,6,7,2,7,0.41,6,0,0,1,0,0
+FRA-Ligue 1,2324,Rennes,Mathis Lambourde,FRA,FW,18-139,2006,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Nemanja Matić,SRB,MF,35-300,1988,11.4,29,2.54,23,1,1,1,2,1,2,0.18,1,0,0,0,1,0
+FRA-Ligue 1,2324,Rennes,Steve Mandanda,FRA,GK,39-060,1985,34.0,3,0.09,1,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Rennes,Warmed Omari,FRA,DF,24-034,2000,23.0,21,0.91,20,0,0,1,0,0,2,0.09,2,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Abakar Sylla,CIV,DF,21-154,2002,19.9,14,0.7,12,0,0,0,0,2,1,0.05,0,0,0,0,0,1
+FRA-Ligue 1,2324,Strasbourg,Aboubacar Ali,FRA,"MF,FW",18-055,2006,1.4,1,0.69,1,0,0,0,0,0,1,0.69,1,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Alaa Bellaarouch,MAR,GK,22-147,2002,15.0,1,0.07,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Andrey Santos,BRA,MF,20-024,2004,9.2,19,2.06,14,0,3,1,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Dilane Bakwa,FRA,"FW,MF",21-275,2002,24.2,107,4.42,54,27,13,5,7,1,10,0.41,4,4,1,1,0,0
+FRA-Ligue 1,2324,Strasbourg,Dion Moise Sahi,CIV,"MF,FW",22-159,2001,7.0,11,1.57,10,0,1,0,0,0,1,0.14,1,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Eduard Sobol,UKR,DF,29-037,1995,0.3,1,3.6,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Emanuel Emegha,NED,FW,21-114,2003,23.1,28,1.21,16,0,5,3,4,0,5,0.22,1,0,1,2,1,0
+FRA-Ligue 1,2324,Strasbourg,Frederic Guilbert,FRA,"DF,MF",29-155,1994,27.7,42,1.52,25,10,2,3,1,1,2,0.07,1,0,1,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Gerzino Nyamsi,FRA,DF,27-126,1997,12.1,10,0.82,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Habib Diarra,SEN,"MF,FW",20-145,2004,25.6,51,1.99,38,0,5,1,4,3,4,0.16,2,0,1,0,1,0
+FRA-Ligue 1,2324,Strasbourg,Ibrahima Sissoko,MLI,MF,26-213,1997,18.2,35,1.92,26,0,3,2,2,2,3,0.16,1,0,0,2,0,0
+FRA-Ligue 1,2324,Strasbourg,Ismaël Doukouré,FRA,"MF,DF",20-308,2003,18.4,24,1.3,19,1,0,0,1,3,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Jean-Ricner Bellegarde,FRA,"MF,FW",25-335,1998,3.0,6,2.01,4,0,2,0,0,0,3,1.0,2,0,1,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Jessy Deminguet,FRA,"MF,FW",26-141,1998,7.7,8,1.04,7,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Junior Mwanga,FRA,"MF,FW",21-016,2003,16.1,32,1.98,24,1,1,3,2,1,3,0.19,3,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Jérémy Sebas,MTQ,"FW,MF",21-043,2003,4.4,10,2.24,6,0,2,1,1,0,3,0.67,1,0,1,0,1,0
+FRA-Ligue 1,2324,Strasbourg,Kévin Gameiro,FRA,"FW,MF",37-018,1987,15.0,52,3.48,43,0,2,6,1,0,5,0.33,2,0,0,3,0,0
+FRA-Ligue 1,2324,Strasbourg,Lebo Mothiba,RSA,FW,28-120,1996,6.9,12,1.75,8,0,1,1,2,0,1,0.15,0,0,0,1,0,0
+FRA-Ligue 1,2324,Strasbourg,Lucas Perrin,FRA,DF,25-190,1998,30.3,14,0.46,12,0,0,1,1,0,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Marvin Senaya,TOG,"DF,MF",23-120,2001,23.8,42,1.77,27,4,3,2,3,3,3,0.13,1,1,0,0,0,1
+FRA-Ligue 1,2324,Strasbourg,Matz Sels,BEL,GK,32-091,1992,19.0,2,0.11,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Mohamed Bechikh,FRA,"FW,MF",18-319,2005,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Patrick Ouotro,CIV,FW,18-257,2005,0.1,,,,,,,,,,,,,,,,
+FRA-Ligue 1,2324,Strasbourg,Rabby Nzingoula,CGO,"MF,FW",18-184,2005,1.5,3,2.03,2,0,0,0,1,0,1,0.68,1,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Saidou Sow,GUI,DF,21-328,2002,8.0,5,0.63,5,0,0,0,0,0,1,0.13,1,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Sanjin Prcić,BIH,MF,30-189,1993,1.0,4,4.09,4,0,0,0,0,0,1,1.02,1,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Steven Baseya,FRA,DF,19-134,2005,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Strasbourg,Thomas Delaine,FRA,"DF,MF",32-064,1992,22.7,49,2.16,34,8,4,1,2,0,6,0.26,1,2,1,0,2,0
+FRA-Ligue 1,2324,Strasbourg,Ângelo Borges,BRA,"FW,MF",19-158,2004,12.2,54,4.45,43,2,5,1,2,1,6,0.49,5,0,0,0,1,0
+FRA-Ligue 1,2324,Toulouse,Aron Dønnum,NOR,"FW,MF",26-037,1998,17.7,53,2.99,30,4,3,7,7,2,4,0.23,3,0,0,0,1,0
+FRA-Ligue 1,2324,Toulouse,Christian Mawissa,FRA,DF,19-039,2005,12.4,15,1.21,12,0,1,1,0,1,1,0.08,1,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Cristian Cásseres Jr.,VEN,MF,24-128,2000,21.6,37,1.71,26,5,1,2,0,3,4,0.18,4,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Denis Genreau,AUS,"MF,FW",25-006,1999,5.2,13,2.52,12,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Fares Chaïbi,ALG,"FW,MF",21-181,2002,0.6,3,4.66,2,1,0,0,0,0,1,1.55,0,1,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Frank Magri,CMR,"FW,MF",24-266,1999,16.0,32,2.0,21,1,4,2,4,0,3,0.19,2,0,0,1,0,0
+FRA-Ligue 1,2324,Toulouse,Gabriel Suazo,CHI,DF,26-292,1997,26.2,83,3.17,62,11,2,1,2,5,9,0.34,8,0,0,0,0,1
+FRA-Ligue 1,2324,Toulouse,Gelabert,ESP,"MF,FW",23-209,2000,8.4,21,2.5,15,3,1,1,1,0,3,0.36,2,1,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Guillaume Restes,FRA,GK,19-077,2005,34.0,2,0.06,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Ibrahim Cissoko,NED,"FW,MF",21-062,2003,2.7,15,5.58,9,0,5,0,0,1,1,0.37,1,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Kévin Keben Biakolo,CMR,DF,20-122,2004,5.8,4,0.69,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Logan Costa,CPV,DF,23-056,2001,29.4,21,0.71,21,0,0,0,0,0,2,0.07,2,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Mamady Bangré,BFA,"FW,MF",22-347,2001,1.1,7,6.24,6,0,1,0,0,0,1,0.89,1,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Mikkel Desler,DEN,DF,29-098,1995,17.2,29,1.69,18,2,1,5,2,1,2,0.12,1,0,0,1,0,0
+FRA-Ligue 1,2324,Toulouse,Moussa Diarra,MLI,DF,23-199,2000,15.5,21,1.35,17,1,0,1,2,0,6,0.39,4,0,0,0,2,0
+FRA-Ligue 1,2324,Toulouse,Naatan Skyttä,FIN,"MF,FW",22-020,2002,1.3,10,7.5,7,1,1,1,0,0,0,0.0,0,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Niklas Schmidt,GER,MF,26-087,1998,14.1,48,3.4,34,10,2,1,1,0,3,0.21,2,1,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Rasmus Nicolaisen,DEN,DF,27-072,1997,32.5,16,0.49,8,0,1,4,1,2,1,0.03,1,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Shavy Babicka,GAB,"FW,MF",23-361,2000,4.1,9,2.17,7,0,0,2,0,0,2,0.48,2,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Stijn Spierings,NED,MF,28-076,1996,16.8,41,2.44,34,1,1,3,1,1,3,0.18,3,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Thijs Dallinga,NED,FW,23-298,2000,27.9,49,1.76,33,0,4,8,2,2,9,0.32,6,0,0,2,1,0
+FRA-Ligue 1,2324,Toulouse,Vincent Sierro,SUI,MF,28-232,1995,25.1,76,3.03,37,23,3,7,4,2,8,0.32,3,3,1,0,1,0
+FRA-Ligue 1,2324,Toulouse,Waren Kamanzi,NOR,"DF,FW",23-198,2000,13.2,23,1.74,19,2,0,1,0,1,3,0.23,3,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Yanis Begraoui,MAR,"FW,MF",22-328,2001,3.3,7,2.11,3,0,0,0,3,1,1,0.3,1,0,0,0,0,0
+FRA-Ligue 1,2324,Toulouse,Yann Gboho,FRA,"MF,FW",23-134,2001,13.3,39,2.94,27,0,7,1,4,0,7,0.53,5,0,0,0,2,0
+FRA-Ligue 1,2324,Toulouse,Zakaria Aboukhlal,MAR,"MF,FW",24-099,2000,8.4,20,2.39,10,0,2,3,3,2,2,0.24,0,0,0,1,1,0
