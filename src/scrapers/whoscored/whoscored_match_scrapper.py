@@ -6,7 +6,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from supabase import create_client
 
-from src.common.config import SUPABASE_PROJECT_URL, SUPABASE_API_KEY
+from src.common import SUPABASE_URL, SUPABASE_KEY
+from src.common.pydantic_models import *
 
 def main():
     whoscored_urls = get_whoscored_urls()
@@ -28,7 +29,7 @@ def scrape_urls(urls):
 def is_match_events_valid(match_events):
     for x in match_events.to_dict(orient="records"):
         try:
-            MatchEvent(**x).dict()
+            WhoscoredMatchEvent(**x).dict()
         except Exception as e:
             return False
     return True
@@ -102,7 +103,7 @@ def clean_df(df):
     return df
 
 def upload_to_supabase(match_data):
-    supabase = create_client(SUPABASE_PROJECT_URL, SUPABASE_API_KEY)
+    supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
     # Get match event data
     match_events = match_data['events']
@@ -175,7 +176,7 @@ def insert_match(match_data, supabase):
 def insert_match_events(df, match_id, supabase):
     events = []
     for record in df.to_dict(orient='records'):
-        event = MatchEvent(**record).dict()
+        event = WhoscoredMatchEvent(**record).dict()
         event['match_id'] = match_id
         events.append(event)
     

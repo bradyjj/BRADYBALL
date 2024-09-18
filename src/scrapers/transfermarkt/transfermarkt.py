@@ -13,7 +13,7 @@ from supabase import create_client
 
 from common.pydantic_models.transfermarkt.transfermarkt_player import TransfermarktPlayer
 from src.common.constants import HEADERS, TRANSFERMARKT_COUNTRY_IDS, TRANSFERMARKT_COUNTRY_URL, TRANSFERMARKT_MARKET_VALUE_URL, TRANSFERMARKT_TRANSFER_HISTORY_URL
-from src.common.config import SUPABASE_URL, SUPABASE_KEY
+from src.common import SUPABASE_URL, SUPABASE_KEY
     
 def scrape_transfermarkt_player_data(year): 
     supabase = create_client(SUPABASE_URL, SUPABASE_KEY)

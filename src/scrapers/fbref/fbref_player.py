@@ -7,8 +7,7 @@ from tqdm import tqdm
 from pydantic import ValidationError
 from .fbref_util import *
 
-from src.pydantic_models import *
-from src.common.constants import *
+from src.common import *
 
 
 def scrape_fbref_player_data():

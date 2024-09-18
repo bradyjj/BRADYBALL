@@ -1,5 +1,5 @@
 import logging
-from src.common.config import SUPABASE_URL, SUPABASE_KEY
+from src.common import SUPABASE_URL, SUPABASE_KEY
 from supabase import create_client
 
 

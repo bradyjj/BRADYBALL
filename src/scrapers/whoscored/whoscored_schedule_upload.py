@@ -7,9 +7,9 @@ from datetime import datetime
 from supabase import create_client, Client
 from pydantic import ValidationError
 from tqdm import tqdm
-from src.pydantic_models.match import Match
+from src.common.pydantic_models import *
 from src.common.constants import WHOSCORED_MATCH_URL_TEMPLATE, WHOSCORED_URL_TO_CONST
-from src.common.config import SUPABASE_URL, SUPABASE_KEY
+from src.common import SUPABASE_URL, SUPABASE_KEY
 
 def extract_season_and_league(url):
     # Using non-greedy quantifiers to ensure it stops at the first occurrence of a year pattern
@@ -87,7 +87,7 @@ def upload_schedule_to_db(df: pd.DataFrame):
 
         for _, row in batch_df.iterrows():
             try:
-                match = Match(**row)
+                match = WhoscoredMatch(**row)
                 validated_data.append(match.dict(exclude_unset=True))
                 # Print each row before uploading
                 print(f"Uploading row: {match.dict(exclude_unset=True)}")
