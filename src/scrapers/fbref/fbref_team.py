@@ -10,7 +10,6 @@ from .fbref_util import *
 
 from src.common import *
 
-
 def scrape_fbref_team_data():
     # Get minimum shared start and end year for all leagues available in fbref
     fbref = sd.FBref(leagues=BIG_5_EUROPEAN_LEAGUES_COMBINED, proxy=None)
