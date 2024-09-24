@@ -1,0 +1,3 @@
+from .whoscored_player import WhoscoredPlayer
+from .whoscored_match import WhoscoredMatch
+from .whoscored_match_event import WhoscoredMatchEvent

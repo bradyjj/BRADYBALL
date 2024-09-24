@@ -1,4 +1,4 @@
-from src.pydantic_models import *
+from pydantic_models import *
 
 # Soccerdata Leagues
 BIG_5_EUROPEAN_LEAGUES_COMBINED = 'Big 5 European Leagues Combined'
