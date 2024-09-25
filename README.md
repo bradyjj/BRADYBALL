@@ -1,11 +1,12 @@
-# Welcome to BRADYBALL
+# ⚽ Welcome to BRADYBALL ⚽
 
-BRADYBALL is a comprehensive soccer data application that combines web scraping, cloud database management, api and web application capabilities to provide a powerful platform for soccer enthusiasts, analysts, and professionals.
+BRADYBALL is a comprehensive fooball *soccer* data application that combines web scraping, cloud database management, api and web application capabilities to provide a powerful platform for soccer enthusiasts, analysts, and professionals.
 
 ## 🚀 Features
 
 - **Web Scraper**: Automatically collects up-to-date soccer data from various online sources.
-- **Cloud Database**: Stores and manages large volumes of soccer data efficiently in the cloud.
+- **Cloud Database**: Stores and manages large volumes of football data efficiently in the cloud.
+- **API Service**: Retrieves data from cloud database and forms JSON responses
 - **Web Application**: Provides an intuitive interface to access, visualize, and analyze soccer data.
 
 ## 🛠️ Technologies
@@ -29,8 +30,41 @@ Get started with BRADYBALL and transform the way you interact with soccer data!
 
 ## 🏃‍♂️ To Run
 
-- `python -m uvicorn src.api.main:app --reload`
+1. Clone the repository:
+   ```
+   git clone https://github.com/bradyjj/BRADYBALL.git
+   cd BRADYBALL
+   ```
 
-## API Docs
+2. Create a virtual environment:
+   ```
+   python -m venv venv
+   ```
+
+3. Activate the virtual environment:
+   - On Windows:
+     ```
+     venv\Scripts\activate
+     ```
+   - On macOS and Linux:
+     ```
+     source venv/bin/activate
+     ```
+
+4. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+
+5. Run the application:
+   ```
+   python -m uvicorn src.api.main:app --reload
+   ```
+
+   This command starts the server with auto-reload enabled, which is useful for development.
+
+Note: Make sure you have Python 3.7+ installed on your system before starting.
+
+## 📃 API Docs
 
 - http://127.0.0.1:8000/docs#/
