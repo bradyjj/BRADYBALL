@@ -14,8 +14,8 @@ app.add_middleware(
 )
 
 # Include routers
-app.include_router(player_routes.router, prefix="/players", tags=["players"])
-app.include_router(team_routes.router, prefix="/teams", tags=["teams"])
+app.include_router(player_routes.router, prefix="/BRADYBALL/api/players", tags=["players"])
+app.include_router(team_routes.router, prefix="/BRADYBALL/api/teams", tags=["teams"])
 
 @app.get("/")
 async def root():
