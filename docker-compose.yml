@@ -1,0 +1,57 @@
+version: '3'
+
+x-worker-template: &worker-template
+  build:
+    context: ./src
+    dockerfile: ./microservices/Dockerfile.service
+  command: celery -A common.celery.celery_app worker --loglevel=info
+  volumes:
+    - ./src:/app/src
+  environment:
+    - PYTHONPATH=/app/src
+  depends_on:
+    - redis
+
+services:
+  redis:
+    image: redis:alpine
+
+  fbref_worker:
+    <<: *worker-template
+    build:
+      args:
+        SERVICE_NAME: fbref_service
+    image: celery-base:fbref
+
+  sofascore_worker:
+    <<: *worker-template
+    build:
+      args:
+        SERVICE_NAME: sofascore_service
+    image: celery-base:sofascore
+
+  transfermarkt_worker:
+    <<: *worker-template
+    build:
+      args:
+        SERVICE_NAME: transfermarkt_service
+    image: celery-base:transfermarkt
+
+  whoscored_worker:
+    <<: *worker-template
+    build:
+      args:
+        SERVICE_NAME: whoscored_service
+    image: celery-base:whoscored
+
+  celery_beat:
+    build:
+      context: ./src
+      dockerfile: ./microservices/Dockerfile.service
+      args:
+        SERVICE_NAME: .
+    command: celery -A common.celery.celery_app beat --loglevel=info
+    volumes:
+      - ./src:/app/src
+    depends_on:
+      - redis

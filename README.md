@@ -63,6 +63,11 @@ Get started with BRADYBALL and transform the way you interact with soccer data!
 
    This command starts the server with auto-reload enabled, which is useful for development.
 
+6. To start microservices:
+   ```
+   docker build -t BRADYBALL-base:latest -f src/microservices/Dockerfile .
+   ```
+
 Note: Make sure you have Python 3.7+ installed on your system before starting.
 
 ## 📃 API Docs

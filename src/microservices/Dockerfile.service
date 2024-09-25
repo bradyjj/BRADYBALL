@@ -1,0 +1,6 @@
+FROM celery-base:latest
+ENV PYTHONPATH=/app/src
+ARG SERVICE_NAME
+WORKDIR /app/src/microservices/${SERVICE_NAME}
+COPY . /app/src
+CMD ["python", "main.py"]
