@@ -1,7 +1,8 @@
 # ⚽ Welcome to BRADYBALL ⚽
 
 <img width="441" alt="Screenshot 2025-02-28 at 10 10 35 PM" src="https://github.com/user-attachments/assets/08daab74-f958-432a-ab7e-883b20d1d3f0" />
-<img width="1261" alt="Screenshot 2025-02-28 at 10 10 38 PM" src="(https://github.com/user-attachments/assets/2cdf61e2-bfb4-4ec4-b185-f8838d7e66c6" />
+![image](https://github.com/user-attachments/assets/9f0c817e-411f-467b-b1fb-34c735053d49)
+
 
 BRADYBALL is a comprehensive fooball *soccer* data application that combines web scraping, cloud database management, api and web application capabilities to provide a powerful platform for soccer enthusiasts, analysts, and professionals.
 
